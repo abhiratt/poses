@@ -1,0 +1,110 @@
+{
+  "Wake Up": {
+    "time": 300,
+    "images": [
+      "upward_salute",
+      "toe_touch",
+      "lunge",
+      "upward_dog",
+      "child_pose",
+      "downward_dog",
+      "wide_leg_bend",
+      "upward_salute"
+    ]
+  },
+  "Full Body": {
+    "time": 900,
+    "images": [
+      "crunch_hold",
+      "toe_touch_hold",
+      "hollow_body",
+      "bicycle_crunch_hold",
+      "bridge",
+      "bridge_leg_lift",
+      "elbow_side_plank",
+      "lying_side_leg_raise",
+      "hand_plank",
+      "bulldog",
+      "push_up_hold",
+      "superman",
+      "airplane",
+      "hand_side_plank",
+      "pike",
+      "bent_arm_pike",
+      "dip_hold",
+      "squat_hold",
+      "narrow_squat_hold",
+      "sumo_squat_hold",
+      "split_lunge_hold",
+      "side_lunge_hold"
+    ]
+  },
+  "Posture Reset": {
+    "time": 240,
+    "images": [
+      "overhead_reach",
+      "neck_flex",
+      "neck_roll"
+    ]
+  },
+  "Sleep": {
+    "time": 600,
+    "images": [
+      "rag_doll",
+      "upward_dog",
+      "child_pose",
+      "knees_to_chest",
+      "happy_baby",
+      "reclined_butterfly",
+      "spinal_twist",
+      "quad_stretch",
+      "legs_up_wall"
+    ]
+  },
+  "Expert": {
+    "time": 1800,
+    "images": [
+      "squat_hold",
+      "narrow_squat_hold",
+      "sumo_squat_hold",
+      "split_lunge_hold",
+      "side_lunge_hold",
+      "curtsy_lunge_hold",
+      "pistol_squat_hold",
+      "hand_plank",
+      "hand_plank_leg_lift",
+      "hand_side_plank",
+      "hand_side_plank_leg_lift",
+      "elbow_plank",
+      "elbow_plank_leg_lift",
+      "elbow_side_plank",
+      "elbow_side_plank_leg_lift",
+      "single_arm_plank",
+      "bulldog",
+      "bird_dog",
+      "bird_dog_plank",
+      "push_up_hold",
+      "narrow_push_up_hold",
+      "spiderman_push_up_hold",
+      "bridge",
+      "bridge_leg_lift",
+      "reverse_plank",
+      "reverse_plank_leg_lift",
+      "crunch_hold",
+      "bicycle_crunch_hold",
+      "toe_touch_hold",
+      "v_sit",
+      "leg_lift",
+      "hollow_body",
+      "dead_bug",
+      "superman",
+      "aquaman",
+      "airplane",
+      "pike",
+      "bent_arm_pike",
+      "wall_plank",
+      "wall_pike",
+      "wall_handstand"
+    ]
+  }
+}

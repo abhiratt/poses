@@ -1,0 +1,76 @@
+{
+  "Core": {
+    "image": "cat_cow",
+    "routines": [
+      "Core 1",
+      "Core 2",
+      "Core 3"
+    ]
+  },
+  "Planks": {
+    "image": "elbow_plank",
+    "routines": [
+      "Planks I",
+      "Planks II",
+      "Planks III",
+      "Planks IV"
+    ]
+  },
+  "Targeted": {
+    "image": "twisted_sphinx",
+    "routines": [
+      "Hips",
+      "Hamstrings",
+      "Lower Back",
+      "Shoulders",
+      "Splits",
+      "Twists & Wrists"
+    ]
+  },
+  "Posture": {
+    "image": "airplane",
+    "routines": [
+      "Tech Neck",
+      "Pelvic Tilt",
+      "Posture Stabilizer",
+      "Posture Power",
+      "Posture Reset"
+    ]
+  },
+  "Relax & Unwind": {
+    "image": "rag_doll",
+    "routines": [
+      "Sleep",
+      "Detox",
+      "Deep Relax"
+    ]
+  },
+  "At the Office": {
+    "image": "chest_opener_standing",
+    "routines": [
+      "Posture Reset",
+      "Desk Stretch",
+      "Standing Desk"
+    ]
+  },
+  "Pre & Post Workout": {
+    "image": "seated_fold",
+    "routines": [
+      "Post-Run",
+      "Warm Up",
+      "Cool Down"
+    ]
+  },
+  "Strength": {
+    "image": "wall_pike",
+    "routines": [
+      "Core",
+      "Abs",
+      "Squats",
+      "Arms",
+      "Back",
+      "Full Body",
+      "Expert"
+    ]
+  }
+}

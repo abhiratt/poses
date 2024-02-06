@@ -1,0 +1,5859 @@
+{
+  "Upward Salute": {
+    "index": 0,
+    "name": "Upward Salute",
+    "desc": "Start from a standing position with your arms hanging at your sides. Slowly sweep your arms out and up toward the ceiling, bringing your hands together overhead. Reach up and slightly back while keeping your neck and shoulders relaxed and lengthening your tailbone toward the ground.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness"
+    ],
+    "images": [
+      "upward_salute"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Shoulders",
+      "Upper Back",
+      "Abdomen",
+      "Chest",
+      "Spine",
+      "Obliques",
+      "Lats",
+      "Chest"
+    ],
+    "isBothSides": false
+  },
+  "Toe Touch": {
+    "index": 1,
+    "name": "Toe Touch",
+    "desc": "Start from a standing position with your feet hip-width apart and toes facing forward. Keeping a slight bend in the knees, gently fold forward at the hips and let your fingers hang down toward your toes.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "toe_touch"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Lower Back",
+      "Hamstrings",
+      "Calves",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Lunge": {
+    "index": 2,
+    "name": "Lunge",
+    "desc": "Start from a kneeling position with your hands at your sides. Step your left leg forward and position your left knee directly over your left ankle. Raise your arms above your head and shift your hips forward to deepen the lunge. If necessary, place a towel or blanket under your back knee for additional support.",
+    "cautionAreas": [
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "lunge"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Quadriceps",
+      "Lower Back",
+      "Abdomen",
+      "Psoas"
+    ],
+    "isBothSides": true
+  },
+  "Upward Dog": {
+    "index": 3,
+    "name": "Upward Dog",
+    "desc": "Start lying face-down on the floor with your legs straight behind you and your palms on the floor beside you, next to your ribs. Press down on your hands to straighten your arms and lift your chest, torso, and hips off the floor. Relax your shoulders and engage your legs and feet to keep your thighs lifted slightly off the floor.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Hips",
+      "Abdomen",
+      "Wrists",
+      "Chest",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "upward_dog"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Chest",
+      "Abdomen",
+      "Spine",
+      "Wrists",
+      "Psoas"
+    ],
+    "isBothSides": false
+  },
+  "Downward Dog": {
+    "index": 4,
+    "name": "Downward Dog",
+    "desc": "Start on your hands and knees with your wrists under your shoulders and your knees under your hips. Curl your toes under and push back through your hands to lift your hips toward the ceiling and straighten your legs. Lengthen your spine, draw your shoulder blades in, and let your heels sink toward the floor.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Hands",
+      "Wrists",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "downward_dog"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Shoulders",
+      "Calves",
+      "Lower Back",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Overhead Reach": {
+    "index": 5,
+    "name": "Overhead Reach",
+    "desc": "Sitting with your back straight, sweep your arms out to the sides and then up toward the ceiling, bringing your hands together overhead. Straighten your elbows and relax your shoulders downward.",
+    "cautionAreas": [
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "overhead_reach"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Side Bend": {
+    "index": 146,
+    "name": "Side Bend",
+    "desc": "From a standing or seated position with your back straight and one hand on your hip, reach the other arm up toward the ceiling and over your head. Lean further from your torso while pulling your rib cage in the opposite direction.",
+    "cautionAreas": [
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness"
+    ],
+    "images": [
+      "side_bend_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Spine",
+      "Lower Back",
+      "Obliques",
+      "Lats"
+    ],
+    "isBothSides": true
+  },
+  "Cactus Arms": {
+    "index": 147,
+    "name": "Cactus Arms",
+    "desc": "From a standing or seated position with your back straight, raise your arms out to each side and lift them up half way. Pin back your shoulders, keep your palms facing forward, and lengthen the spine by leaning your head and neck forward.",
+    "cautionAreas": [
+      "Elbows",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "cactus_arms_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Spine",
+      "Upper Back",
+      "Chest"
+    ],
+    "isBothSides": false
+  },
+  "Shoulder Rolls": {
+    "index": 143,
+    "name": "Shoulder Rolls",
+    "desc": "From a standing or seated position with your back straight, start by lifting your shoulders up toward your ears and then making small forward circles with your shoulders by rolling them forward, down, back, and up. Change directions at the half way point.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "shoulder_rolls_standing",
+      "shoulder_rolls_standing_1"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Upper Back"
+    ],
+    "isBothSides": true
+  },
+  "Neck Flex": {
+    "index": 9,
+    "name": "Neck Flex",
+    "desc": "Sitting with your back straight and arms resting at your sides, slowly lean your head back as far as you can while keeping your mouth closed. Switch directions at the halfway point, slowly bringing your head forward and chin in toward your chest.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Herniated Disc"
+    ],
+    "images": [
+      "neck_flex",
+      "neck_flex_1"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Upper Back",
+      "Spine"
+    ],
+    "isBothSides": true
+  },
+  "Neck Roll": {
+    "index": 10,
+    "name": "Neck Roll",
+    "desc": "Start sitting with your back straight and arms resting at your sides. Tuck your chin down into toward your chest and gently roll your neck from side to side in a continuous motion.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Herniated Disc"
+    ],
+    "images": [
+      "neck_roll"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Upper Back",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Neck Laterals": {
+    "index": 144,
+    "name": "Neck Laterals",
+    "desc": "From a standing or seated position with your back straight, gently tilt your head toward your opposite shoulder and pull down lightly on your head with your other hand.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Herniated Disc"
+    ],
+    "images": [
+      "neck_laterals_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Neck",
+      "Upper Back"
+    ],
+    "isBothSides": true
+  },
+  "Diver": {
+    "index": 145,
+    "name": "Diver",
+    "desc": "From a standing or seated position, lock your hands and stretch your arms out in front of your body. Spread your shoulder blades, tuck your head forward, and round your back.",
+    "cautionAreas": [
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness"
+    ],
+    "images": [
+      "diver_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Neck",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Pigeon": {
+    "index": 13,
+    "name": "Pigeon",
+    "desc": "Start on your hands and knees. Bring your left knee up to your left hand, rotating your leg so that your left foot is as close to your right hand as possible. Keep your left knee pointed out at 45 degrees away from your body and extend your right leg straight back behind you. Gently fold forward over your left knee so your elbows are on the floor.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "pigeon"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Groin",
+      "Glutes",
+      "Hamstrings",
+      "IT Band",
+      "Psoas",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Child's Pose": {
+    "index": 14,
+    "name": "Child's Pose",
+    "desc": "Start from a kneeling position with your toes together and your knees hip-width apart. Lower your torso, allowing your stomach to rest between your knees and placing your forehead on the floor. Extend your arms forward with your palms against the floor and relax your shoulders toward the ground.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Hips",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "child_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Shoulders",
+      "Hips",
+      "Ankles",
+      "Shins",
+      "Feet"
+    ],
+    "isBothSides": false
+  },
+  "Spinal Twist": {
+    "index": 15,
+    "name": "Spinal Twist",
+    "desc": "Starting flat on your back, shift your hips to the right and bring your right leg over your left, placing your left hand on the outside of your right knee.",
+    "cautionAreas": [
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "spinal_twist"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Spine",
+      "IT Band",
+      "Glutes",
+      "Chest",
+      "Obliques"
+    ],
+    "isBothSides": true
+  },
+  "Quad Stretch": {
+    "index": 16,
+    "name": "Quad Stretch",
+    "desc": "Start sitting on the floor with your legs extended straight out in front of you. Bend your knee and grab your foot to bring it back behind you, placing your foot directly underneath your buttocks. Gently lean back to rest on your elbows.",
+    "cautionAreas": [
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Quadriceps"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "quad_stretch"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Ankles",
+      "Hips",
+      "Shins",
+      "Knees"
+    ],
+    "isBothSides": true
+  },
+  "Seated Fold": {
+    "index": 17,
+    "name": "Seated Fold",
+    "desc": "While seated on the ground, reach your arms up overhead before bending forward from the hips. Reach forward to grab your ankles or feet while trying not to round your back.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Lower Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "seated_fold"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Spine",
+      "Hamstrings",
+      "Shoulders",
+      "Upper Back",
+      "Calves"
+    ],
+    "isBothSides": false
+  },
+  "Butterfly": {
+    "index": 18,
+    "name": "Butterfly",
+    "desc": "Sitting on the floor with your back straight, bend your knees and drop your legs to the sides so the soles of your feet come together. Grab your feet and ankles and lean forward, keeping your spine straight.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "butterfly"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Groin",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Knees-to-chest": {
+    "index": 19,
+    "name": "Knees-to-chest",
+    "desc": "Lying on your back, gently bring both knees up and in toward your chest using your abdominals. Grab your lower legs or lock your hands and hug your legs toward your body. Relax your legs and lower back.",
+    "cautionAreas": [
+      "Knees",
+      "Quadriceps",
+      "Hips"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "knees_to_chest"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Hamstrings",
+      "Glutes",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Legs-up-wall": {
+    "index": 20,
+    "name": "Legs-up-wall",
+    "desc": "Start by sitting with your left side against the wall, then lean back and turn your body to the left to bring your legs up onto the wall. Rest your shoulders and head on the floor and shift your weight from side-to-side to scoot closer to the wall.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Lower Back"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy"
+    ],
+    "images": [
+      "legs_up_wall"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Hamstrings",
+      "Hips",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Standing Quad": {
+    "index": 21,
+    "name": "Standing Quad",
+    "desc": "From a standing position, grab your right leg just above the ankle with both hands and pull it backwards toward your buttocks. Hold on to the back of a chair or a wall with one hand for better balance.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Abdomen"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "standing_quad"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Lower Back",
+      "Knees",
+      "Shins",
+      "Feet",
+      "Ankles",
+      "Hips",
+      "Psoas",
+      "Abdomen"
+    ],
+    "isBothSides": true
+  },
+  "Leaning Calf": {
+    "index": 22,
+    "name": "Leaning Calf",
+    "desc": "From a standing position, place both hands on a wall in front of you while stepping your left leg back. Press your left heel into the floor and straighten your left leg while keeping your right leg bent.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "leaning_calf"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Calves",
+      "Hamstrings",
+      "Ankles",
+      "Feet"
+    ],
+    "isBothSides": true
+  },
+  "Side Lunge": {
+    "index": 23,
+    "name": "Side Lunge",
+    "desc": "Standing with a wide stance, squat down to your right by bending your right knee and keeping your left leg straight. Point your left toes or flex your foot so it's pointing toward the ceiling.",
+    "cautionAreas": [
+      "Knees",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "side_lunge"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Groin",
+      "Hips",
+      "Hamstrings",
+      "Calves"
+    ],
+    "isBothSides": true
+  },
+  "Lying Hamstring": {
+    "index": 24,
+    "name": "Lying Hamstring",
+    "desc": "Lying on your back with knees bent and feet flat on the floor, raise your right leg up and grab the back of your right knee with both hands, pulling the leg toward the chest. Grab your calf or foot if possible and straighten your right leg to further the stretch.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Abdomen",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "lying_hamstring"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Glutes",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Lying Figure Four": {
+    "index": 25,
+    "name": "Lying Figure Four",
+    "desc": "Lying on your back with knees bent and feet flat on the floor, cross your left ankle over your right knee and grab the back of the right knee with both hands. Pull your right leg toward your chest while keeping your lower back on the floor.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "lying_figure_four"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Glutes",
+      "Lower Back",
+      "IT Band"
+    ],
+    "isBothSides": true
+  },
+  "Wide Leg Bend": {
+    "index": 26,
+    "name": "Wide Leg Bend",
+    "desc": "From a standing position, keep your toes pointed forward and widen your stance while maintaining stability. Keeping a slight bend in the knees, gently fold forward at the hips and touch the floor with your fingers or palms. If possible, continue to reach further back to deepen the stretch.",
+    "cautionAreas": [
+      "Ankles",
+      "Knees",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Lower Back"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "wide_leg_bend"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Lower Back",
+      "Hamstrings",
+      "Calves",
+      "Groin",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Cat Cow": {
+    "index": 27,
+    "name": "Cat Cow",
+    "desc": "Starting from all fours, drop your stomach towards the mat while lifting your chin and chest and gazing up toward the ceiling as you inhale. As you exhale, round your back toward the ceiling, draw your stomach to your spine, and release your head down toward the floor.",
+    "cautionAreas": [
+      "Abdomen",
+      "Wrists",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": true,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Osteoporosis"
+    ],
+    "images": [
+      "cat_cow",
+      "cat_cow_1"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Abdomen",
+      "Neck",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Seated Twist": {
+    "index": 28,
+    "name": "Seated Twist",
+    "desc": "Sitting upright with your legs in front of you, cross your right leg over your left, placing your right foot next to your left thigh. Hook your left arm around your right knee and reach your right arm behind you, gently twisting your body to the right.",
+    "cautionAreas": [
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "seated_twist"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Spine",
+      "IT Band",
+      "Glutes",
+      "Chest",
+      "Obliques",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Locust Pose": {
+    "index": 29,
+    "name": "Locust Pose",
+    "desc": "Lying flat on your stomach with arms at your sides, lift your chest, arms and legs up toward the ceiling, resting your weight on your lower ribs, stomach, and pelvis. Draw your shoulder blades back and lengthen your legs through the balls of your feet.",
+    "cautionAreas": [
+      "Abdomen",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "locust_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Glutes",
+      "Neck",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Shoulder Stand": {
+    "index": 30,
+    "name": "Shoulder Stand",
+    "desc": "Lying on your back, lift your legs and hips off the ground bringing your torso perpendicular to the floor. Place your elbows on the ground and hands on your lower back and straighten your legs while reaching your feet up toward the ceiling.",
+    "cautionAreas": [
+      "Abdomen",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "shoulder_stand"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Plow": {
+    "index": 31,
+    "name": "Plow",
+    "desc": "Starting flat on your back with your arms at your sides, lift your legs and hips up toward the ceiling using your abdominals. Straighten your legs so that your torso is perpendicular to the floor and then slowly lower your toes to the floor behind you with your legs fully extended.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "plow"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Upper Back",
+      "Lower Back",
+      "Neck",
+      "Shoulders",
+      "Hamstrings",
+      "Calves",
+      "Spine",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Seated Figure Four": {
+    "index": 32,
+    "name": "Seated Figure Four",
+    "desc": "Sitting on the edge of your chair with your back straight, place your left ankle on your right knee and gently lean forward.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "seated_figure_four"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Glutes",
+      "Hips",
+      "Lower Back",
+      "IT Band"
+    ],
+    "isBothSides": true
+  },
+  "Seated Hamstring": {
+    "index": 33,
+    "name": "Seated Hamstring",
+    "desc": "Sitting on the edge of your chair, stretch your right leg out in front of you with your heel on the floor and toes pointing back toward you. Gently lean forward while keeping your back straight and hands on your hips.",
+    "cautionAreas": [
+      "Hamstrings"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "seated_hamstring"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Lower Back",
+      "Calves",
+      "Glutes"
+    ],
+    "isBothSides": true
+  },
+  "Trunk Rotation": {
+    "index": 34,
+    "name": "Trunk Rotation",
+    "desc": "Sitting in a chair with your back straight, cross your right leg over your left leg and twist your upper body to the right while keeping your hips in the same spot. Place your left elbow on the outside of your right leg and use the back of your chair to increase your rotation.",
+    "cautionAreas": [
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "trunk_rotation"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Lower Back",
+      "Upper Back",
+      "Hips",
+      "Obliques",
+      "Lats",
+      "Spine",
+      "IT Band",
+      "Glutes",
+      "Chest",
+      "Obliques"
+    ],
+    "isBothSides": true
+  },
+  "Chest Opener": {
+    "index": 36,
+    "name": "Chest Opener",
+    "desc": "Standing with your feet hip-width apart, interlock your fingers behind your head. Gently squeeze your shoulder blades together and move your elbows backward to open your chest.",
+    "cautionAreas": [
+      "Elbows",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "chest_opener_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "One Arm Hug": {
+    "index": 38,
+    "name": "One Arm Hug",
+    "desc": "Standing with your feet hip-width apart, use your left forearm to bring your right arm across your body. Keep your elbow below shoulder height.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "one_arm_hug_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Shoulders",
+      "Triceps",
+      "Lats"
+    ],
+    "isBothSides": true
+  },
+  "Overhead Tricep": {
+    "index": 40,
+    "name": "Overhead Tricep",
+    "desc": "Standing with your feet hip-width apart, raise both arms above and behind your head. Bend both arms at the elbows and use your left hand to pull your right elbow across your body.",
+    "cautionAreas": [
+      "Elbows",
+      "Triceps",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "overhead_tricep_standing"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Shoulders",
+      "Triceps",
+      "Lower Back",
+      "Upper Back",
+      "Lats",
+      "Obliques",
+      "Chest"
+    ],
+    "isBothSides": true
+  },
+  "Forearm Stretch": {
+    "index": 41,
+    "name": "Forearm Stretch",
+    "desc": "Sitting in a chair with your back straight, extend your right arm straight out in front of your body with the palm facing up. Grab the fingers on your right hand with your left hand and gently pull back toward your body.",
+    "cautionAreas": [
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "forearm_stretch"
+    ],
+    "categoryType": [
+      "Sitting"
+    ],
+    "areas": [
+      "Forearms",
+      "Hands",
+      "Fingers"
+    ],
+    "isBothSides": true
+  },
+  "Reclined Butterfly": {
+    "index": 42,
+    "name": "Reclined Butterfly",
+    "desc": "Lying flat on your back with legs extended, draw your feet in toward the center of your body, bringing the soles of your feet together with the knees out to the side. Slowly allow your legs to fall open.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy"
+    ],
+    "images": [
+      "reclined_butterfly"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Groin",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Jumping Jacks": {
+    "index": 43,
+    "name": "Jumping Jacks",
+    "desc": "Stand upright with your legs together and arms at your sides. Keeping your knees bent, jump up while bringing your arms above your head and legs wider than your shoulders. Bend your knees and jump again to return to the starting position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "jumping_jacks",
+      "jumping_jacks_1",
+      "jumping_jacks_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Shoulders",
+      "Abdomen",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Lower Back",
+      "Upper Back"
+    ],
+    "isBothSides": false
+  },
+  "Air Squats": {
+    "index": 44,
+    "name": "Air Squats",
+    "desc": "Stand with your feet shoulder-width apart and your toes angled slightly outward. Keep your back straight and heels on the ground and bend your knees until your thighs are parallel with the floor. Keep your hands behind your head or folded in front of your chest. Straighten your legs to come back up to the starting position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": true,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [],
+    "images": [
+      "air_squats",
+      "air_squats_1"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Glutes",
+      "Calves",
+      "Hips",
+      "Lower Back",
+      "Groin"
+    ],
+    "isBothSides": false
+  },
+  "Arm Circles": {
+    "index": 45,
+    "name": "Arm Circles",
+    "desc": "Stand with your feet shoulder-width apart and arms extended outward. Move your arms in a circular motion, gradually increasing the size of the circle until you reach your max. Reverse the direction of the circle when the timer reaches the halfway point.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": true,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [],
+    "images": [
+      "arm_circles",
+      "arm_circles_1"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders",
+      "Upper Back",
+      "Neck"
+    ],
+    "isBothSides": true
+  },
+  "Toe Touch Twist": {
+    "index": 46,
+    "name": "Toe Touch Twist",
+    "desc": "Stand with a wide stance and slight bend in your knees. Keep your back straight, engage your core and lower back, and bend forward while simultaneously rotating your upper body to touch your toe with the opposite hand. Return to the starting position and repeat on the other side.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "toe_touch_twist",
+      "toe_touch_twist_1",
+      "toe_touch_twist_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Shoulders",
+      "Lower Back",
+      "Upper Back",
+      "Glutes",
+      "Hamstrings",
+      "Hips",
+      "Obliques",
+      "Abdomen",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Lateral Lunge": {
+    "index": 47,
+    "name": "Lateral Lunge",
+    "desc": "Stand with a wide stance and slight bend in your knees. Keeping your back and torso as upright as possible, shift your body weight to one leg, bending your knee until it reaches a 90-degree angle while keeping your other leg straight. Return to center and switch sides.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [],
+    "images": [
+      "lateral_lunge",
+      "lateral_lunge_1",
+      "lateral_lunge_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Glutes",
+      "Hamstrings",
+      "Quadriceps",
+      "Groin",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Knees Hugs": {
+    "index": 48,
+    "name": "Knees Hugs",
+    "desc": "Stand with your feet shoulder-width apart. Engage your core to lift your knee up and towards your chest. Grab your knee with both hands and pull it in toward your chest. Release your leg to the ground and repeat on the other side.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Pregnancy"
+    ],
+    "images": [
+      "high_knees",
+      "high_knees_1",
+      "high_knees_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Hips",
+      "Lower Back",
+      "Glutes"
+    ],
+    "isBothSides": false
+  },
+  "Lizard Pose": {
+    "index": 49,
+    "name": "Lizard Pose",
+    "desc": "Start on your hands and knees with your toes facing the floor. Step your left foot to the outside of your left hand and slightly in front of it, with your toes pointing out at a 45 degree angle. If possible, drop your elbows to the floor and place your forearms flat on the ground.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "lizard_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Hamstrings",
+      "Groin",
+      "Quadriceps",
+      "Glutes"
+    ],
+    "isBothSides": true
+  },
+  "Happy Baby": {
+    "index": 50,
+    "name": "Happy Baby",
+    "desc": "Start lying on your back with your knees toward your chest. Bring your arms through the inside of your knees and grab the outsides of your feet with each hand. Pull back on your feet to bring your knees down toward the floor and position your ankles directly over your knees.",
+    "cautionAreas": [
+      "Calves",
+      "Knees",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "happy_baby"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Lower Back",
+      "Groin",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "isBothSides": false
+  },
+  "Folded Butterfly": {
+    "index": 51,
+    "name": "Folded Butterfly",
+    "desc": "Sitting on the floor with your back straight, bend your knees and drop your legs to the sides so the soles of your feet come together. Pull your feet in toward your hips then fold forward over your feet, reaching out in front of you with your palms facing up.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "folded_butterfly"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Lower Back",
+      "Groin",
+      "Knees"
+    ],
+    "isBothSides": false
+  },
+  "Wall Dog": {
+    "index": 52,
+    "name": "Wall Dog",
+    "desc": "Start facing the wall, feet shoulder width apart, and take a large step back. Lean forward and place your hands against the wall at shoulder height and shoulder-width apart. Keeping your hands in place, bend forward at the hips to release your upper body down between your arms.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "wall_dog"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Hamstrings",
+      "Lower Back",
+      "Upper Back"
+    ],
+    "isBothSides": false
+  },
+  "Forward Fold": {
+    "index": 53,
+    "name": "Forward Fold",
+    "desc": "Start with your feet shoulder-width apart, knees slightly bent, and fingers interlaced behind your back. Fold forward at the hips, allowing your hands to rise up off your lower back and over your head toward the front of your body.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "forward_fold"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Shoulders",
+      "Hamstrings",
+      "Calves",
+      "Glutes",
+      "Hips",
+      "Upper Back",
+      "Chest"
+    ],
+    "isBothSides": false
+  },
+  "Shoulder Cross": {
+    "index": 54,
+    "name": "Shoulder Cross",
+    "desc": "Start lying on your stomach with your arms in front of you. Lift your upper body slightly off the floor and move your left arm to the right side of your body beneath your right arm. Lower your head and upper body to the floor, tucking your left shoulder beneath your chin. Crawl your right arm forward to further the stretch.",
+    "cautionAreas": [
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "shoulder_cross"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Shoulders",
+      "Upper Back",
+      "Triceps"
+    ],
+    "isBothSides": true
+  },
+  "Shoulder Opener": {
+    "index": 55,
+    "name": "Shoulder Opener",
+    "desc": "Start lying on your stomach with your arms out. Place your right hand on the floor to push your right hip open and right leg over your body so that your right foot lands behind your left leg. Walk your right leg back to open your hips and further the stretch in your left shoulder.",
+    "cautionAreas": [
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "shoulder_opener"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Biceps"
+    ],
+    "isBothSides": true
+  },
+  "Rag Doll": {
+    "index": 56,
+    "name": "Rag Doll",
+    "desc": "Stand with your feet hip-width apart, toes facing forward, and knees slightly bent. Gently fold forward at the hips, crossing your arms overhead to hold onto opposite elbows. Keep your knees bent and facing forward.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "rag_doll"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Lower Back",
+      "Calves",
+      "Glutes",
+      "Hips",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Hero Pose": {
+    "index": 57,
+    "name": "Hero Pose",
+    "desc": "Start from a kneeling position with your knees and feet together and the tops of your feet facing the floor. Keeping your toes together, let your heels fall apart and slowly sit back on your feet, placing your hands on your knees for additional support. If necessary, place a rolled up towel or blanket on top of your feet to make it easier.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Quadriceps",
+      "Hips"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "thunderbolt"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Knees",
+      "Ankles",
+      "Feet",
+      "Shins"
+    ],
+    "isBothSides": false
+  },
+  "Trunk Twist": {
+    "index": 58,
+    "name": "Trunk Twist",
+    "desc": "Stand with your feet shoulder-width apart, knees bent, and arms out to your sides. Rotate your hips, torso, upper body, and shoulders from side to side, squeezing your obliques and abdominals at the end of each rotation. Keep your arms straight or bent at the elbows.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Abdomen",
+      "Chest",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "torso_twist",
+      "torso_twist_1",
+      "torso_twist_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Lower Back",
+      "Shoulders",
+      "Abdomen",
+      "Obliques",
+      "Lats",
+      "Hips",
+      "IT Band",
+      "Knees",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Leg Swings": {
+    "index": 59,
+    "name": "Leg Swings",
+    "desc": "Stand with your feet hip-width apart and hold onto a wall or chair. Keep one leg stationary on the ground while swinging the other leg forward and backward in a continuous movement. Switch legs when the timer reaches the halfway point.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": true,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [],
+    "images": [
+      "leg_swings",
+      "leg_swings_1"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Quadriceps",
+      "Calves",
+      "Hips",
+      "Glutes",
+      "Lower Back",
+      "Groin",
+      "Abdomen"
+    ],
+    "isBothSides": true
+  },
+  "Knee Circles": {
+    "index": 60,
+    "name": "Knee Circles",
+    "desc": "Stand with your feet together and knees slightly bent. Place your hands on your knees and slowly guide your knees through a circular motion while keeping your feet flat on the ground. Reverse directions when the timer reaches the halfway point.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Abdomen"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": true,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [],
+    "images": [
+      "knee_circles",
+      "knee_circles_1",
+      "knee_circles_2",
+      "knee_circles_3"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Knees",
+      "Calves",
+      "Ankles",
+      "Feet",
+      "Shins"
+    ],
+    "isBothSides": true
+  },
+  "Arm Swings": {
+    "index": 61,
+    "name": "Arm Swings",
+    "desc": "Stand with your feet shoulder-width apart, knees slightly bent, and arms out to the sides. Cross your arms in front of you, then bring them back as far as you can behind you in a continuous motion. When crossing your arms in front of you, alternate which arm is on top each time.",
+    "cautionAreas": [
+      "Abdomen",
+      "Chest",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Biceps",
+      "Triceps"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": true,
+    "conditions": [
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "arm_swings",
+      "arm_swings_1",
+      "arm_swings_2"
+    ],
+    "categoryType": [
+      "Dynamic"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders",
+      "Biceps",
+      "Triceps",
+      "Upper Back"
+    ],
+    "isBothSides": false
+  },
+  "Kneeling Quad": {
+    "index": 62,
+    "name": "Kneeling Quad",
+    "desc": "Starting from your hands and knees, step your left foot up to the outside of your left hand. Straighten your torso and upper body, then reach behind you to grab your right foot with your right hand. Bend your left knee and pull your right foot toward your body to further the stretch. If necessary, place a pillow under your knee for additional support and to avoid pressure pain.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "kneeling_quad"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Hips",
+      "Psoas",
+      "Abdomen"
+    ],
+    "isBothSides": true
+  },
+  "Reverse Lunge": {
+    "index": 63,
+    "name": "Reverse Lunge",
+    "desc": "Starting from a kneeling position, extend your right foot forward in front of you so your right leg is straight and resting on your right heel. Keep your back straight while gently folding forward over your right leg to further the stretch in your hamstring. Rest your hands on the floor to maintain stability and balance.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Hamstrings",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "reverse_lunge"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Glutes",
+      "Hips",
+      "Lower Back",
+      "Calves"
+    ],
+    "isBothSides": true
+  },
+  "Hurdler": {
+    "index": 64,
+    "name": "Hurdler",
+    "desc": "Start from a seated position on the floor with your legs out in front of you. Bend your right leg, dropping your right knee toward the ground and bringing your right heel in toward your groin. With your left leg extended straight out in front of you, lean forward to grab your left foot or lower leg with both of your hands.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Lower Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "hurdler"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Glutes",
+      "Groin",
+      "Lower Back",
+      "Calves"
+    ],
+    "isBothSides": true
+  },
+  "Hamstring Pulls": {
+    "index": 65,
+    "name": "Hamstring Pulls",
+    "desc": "Start from a seated position on the floor with your legs out in front of you. Loop a belt, strap, or towel around your right foot. Keeping your left leg flat on the floor, slowly lean back to a lying position, pulling on the strap to bring your right leg up toward the ceiling. Keep your right leg extended and pull on the strap with both hands to deepen the stretch.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Hamstrings",
+      "Hips",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy"
+    ],
+    "images": [
+      "modified_hamstring"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Glutes",
+      "Lower Back",
+      "Hips",
+      "Calves"
+    ],
+    "isBothSides": true
+  },
+  "Seated Straddle": {
+    "index": 66,
+    "name": "Seated Straddle",
+    "desc": "Start from a seated position on the floor with your legs out in front of you. Widen your legs while maintaining an upright torso. Slowly bend forward from your hips, extending your arms out in front of you and placing your palms flat on the floor. If possible, maintain a straight back and avoid rounding your back towards the ceiling.",
+    "cautionAreas": [
+      "Calves",
+      "Knees",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Lower Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "seated_straddle"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Groin",
+      "Glutes",
+      "Lower Back",
+      "Hips",
+      "Calves",
+      "Upper Back",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Front Split": {
+    "index": 67,
+    "name": "Front Split",
+    "desc": "Start from a kneeling position with an upright torso. Extend your front foot forward so your leg is straight and resting on your front heel. With your back toes pointed out and the top of your back foot on the floor, draw your back foot backward and glide the front foot forward while easing your hips toward the mat. Place your hands on the floor for additional support and stop once you feel a deep stretch in your hamstring and hip flexors.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "front_split"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Hips",
+      "Quadriceps",
+      "Groin",
+      "Calves",
+      "Glutes"
+    ],
+    "isBothSides": true
+  },
+  "Squat Stretch": {
+    "index": 68,
+    "name": "Squat Stretch",
+    "desc": "Start standing up with your feet shoulder-width apart and toes pointed slightly outward. Keeping your back straight, squat all the way down until your hamstrings rest against your calves. Place your elbows on the insides of your knees and press your palms together.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "squat_stretch"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Hips",
+      "Lower Back",
+      "Glutes",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Calves",
+      "Knees"
+    ],
+    "isBothSides": false
+  },
+  "Frog Pose": {
+    "index": 69,
+    "name": "Frog Pose",
+    "desc": "Start on your hands and knees. Spread your knees apart as wide as possible, pointing your toes outward and opening your feet so they are wider than your knees. Drop down to your forearms and move your hips back towards your heels to further the stretch.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "frog_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Groin",
+      "Lower Back"
+    ],
+    "isBothSides": false
+  },
+  "Double Pigeon": {
+    "index": 70,
+    "name": "Double Pigeon",
+    "desc": "Start from a seated position on the floor with your legs out in front of you. Bend your left knee so that your left shin is parallel to the edge of your mat and resting on the floor in front of you. Bend your right knee, pick up your right leg, and stack it on top of your left so that your shins are directly on top of one another. Keep your hands on the floor next to your hips for support or place them on your top knee and ankle and lean forward to further the stretch.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "double_pigeon"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Groin",
+      "Hamstrings",
+      "Glutes",
+      "IT Band"
+    ],
+    "isBothSides": true
+  },
+  "Toe Squat": {
+    "index": 71,
+    "name": "Toe Squat",
+    "desc": "Start from a kneeling position with your knees and feet together and the tops of your feet facing the floor. Tuck your toes under so the balls of your feet are against the floor, and gently sit back on your heels. If necessary, place a rolled up towel or blanket underneath your knees.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "toe_squat"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Toes"
+    ],
+    "isBothSides": false
+  },
+  "Wrist Extension": {
+    "index": 72,
+    "name": "Wrist Extension",
+    "desc": "Start from a kneeling position with your knees and feet together and the tops of your feet facing the floor. Place your hands on the floor in front of you so that your palms are flat on the floor with your fingers pointing back toward your knees. Bring your knees up near your hands and gently sit back on your heels.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "wrist_extension"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Wrists",
+      "Hands",
+      "Forearms",
+      "Fingers"
+    ],
+    "isBothSides": false
+  },
+  "Wrist Flexion": {
+    "index": 73,
+    "name": "Wrist Flexion",
+    "desc": "Start from a kneeling position with your knees and feet together and the tops of your feet facing the floor. Place your hands on the floor in front of you so that the back of your hand is flat on the floor with your fingers pointing back toward your knees. Bring your knees up near your hands and gently sit back on your heels.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "wrist_flexion"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Wrists",
+      "Hands",
+      "Forearms",
+      "Fingers"
+    ],
+    "isBothSides": false
+  },
+  "Twisted Sphinx": {
+    "index": 74,
+    "name": "Twisted Sphinx",
+    "desc": "Start on the floor on your hands and knees. Extend your right leg straight behind you and bring your left leg under your body and out to the right side so your left toes are pointing out. If possible, release your forearms to the floor and drop your left hip to the floor if necessary.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Forearms",
+      "Elbows",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis"
+    ],
+    "images": [
+      "twisted_sphinx"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Hamstrings",
+      "Glutes",
+      "Lower Back",
+      "Spine",
+      "IT Band"
+    ],
+    "isBothSides": true
+  },
+  "Puppy Pose": {
+    "index": 75,
+    "name": "Puppy Pose",
+    "desc": "Start on your hands and knees with the tops of your feet flat on the floor. Walk your hands forward and lower your chest down toward the ground while keeping your hips lifted up over your knees. Lower your forehead to the mat and further the stretch by coming up onto your chin and looking forward.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Knees",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "puppy_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Shoulders",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Abdomen",
+      "Chest",
+      "Spine"
+    ],
+    "isBothSides": false
+  },
+  "Saddle Pose": {
+    "index": 76,
+    "name": "Saddle Pose",
+    "desc": "Start from a kneeling position with the tops of your feet facing the floor. Spread your knees and feet apart as you sit down on the floor between them. Widen your knees further and lean back to rest on your elbows. If possible, continue to lower your back down toward the floor and cross your arms over your head.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "saddle_pose"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Spine",
+      "Hips",
+      "Quadriceps",
+      "Knees",
+      "Shins",
+      "Feet",
+      "Ankles",
+      "Psoas",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Crunch Hold": {
+    "index": 77,
+    "name": "Crunch Hold",
+    "desc": "Lie on your back with your knees bent and feet flat on the floor about hip-width apart. Contract your abs to lift your head and upper body up off the floor toward your legs while reaching forward with your arms. Keep your arms straight and parallel to the floor and hold the position.",
+    "cautionAreas": [
+      "Abdomen",
+      "Chest",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "crunch_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Bicycle Crunch Hold": {
+    "index": 78,
+    "name": "Bicycle Crunch Hold",
+    "desc": "Lie on your back with your knees bent and feet flat on the floor about hip-width apart and place your hands behind your head. Engage your core to rotate your trunk and bring your left elbow and right knee toward each other while straightening your left leg. Hold the position.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Chest",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "bicycle_crunch_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques"
+    ],
+    "isBothSides": true
+  },
+  "Toe Touch Hold": {
+    "index": 79,
+    "name": "Toe Touch Hold",
+    "desc": "Lie on your back with your legs straight up in the air, about hip-width apart. Keeping your legs straight, contract your abs to lift your head and upper body up off the floor and reach up toward your toes. Hold the position.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Chest",
+      "Lower Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "toe_touch_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "V-Sit": {
+    "index": 80,
+    "name": "V-Sit",
+    "desc": "Lie on your back with your arms at your sides and your legs straight out in front of you. Engage your core and contract your Abs to simultaneously lift your arms straight up toward the ceiling and your legs up off the floor and out in front of you. Keep your back straight and hold the position.",
+    "cautionAreas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "v_sit"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Hand Plank": {
+    "index": 81,
+    "name": "Hand Plank",
+    "desc": "Start on the floor in a push up position. Ground your toes into the floor and engage your abs, shouldes, back, and glutes to stabilize the body. Be careful not to lock or hyperextend your knees. Keep a straight spine with your head in line with your back and look at a spot on the floor slightly above your hands.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Abdomen",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "hand_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques",
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Lower Back"
+    ],
+    "isBothSides": false
+  },
+  "Hand Plank Leg Lift": {
+    "index": 82,
+    "name": "Hand Plank Leg Lift",
+    "desc": "Place your hands under your shoulders, slightly wider than shoulder width (like you\u00e2\u20ac\u2122re about to do a push-up). Ground your toes into the floor and engage your abs, shouldes, back, and glutes to stabilize the body. Be careful not to lock or hyperextend your knees. While keeping your core engaged, slowly raise one leg off the floor until it\u00e2\u20ac\u2122s at about hip height. Keep a straight spine with your head in line with your back and look at a spot on the floor slightly above your hands.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "hand_plank_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques",
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Hand Side Plank": {
+    "index": 83,
+    "name": "Hand Side Plank",
+    "desc": "Lying on your left side with your legs straight and feet stacked on top of each other, lift your upper body and place your left hand under your left shoulder. Engage your core to lift your hips up off the floor so that you\u00e2\u20ac\u2122re supporting your weight on your left hand and the side of your left foot. Keep your body in a straight line and lift your right arm up toward the ceiling.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Osteoporosis",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "hand_side_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Shoulders",
+      "Triceps"
+    ],
+    "isBothSides": true
+  },
+  "Hand Side Plank Leg Lift": {
+    "index": 84,
+    "name": "Hand Side Plank Leg Lift",
+    "desc": "Lying on your left side with your legs straight and feet stacked on top of each other, lift your upper body and place your left hand under your left shoulder. Engage your core to lift your hips up off the floor so that you\u00e2\u20ac\u2122re supporting your weight on your left hand and the side of your left foot. Keeping your body in a straight line, lift your right arm up toward the ceiling and raise your right leg until it\u00e2\u20ac\u2122s at about hip height.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "hand_side_plank_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Shoulders",
+      "Triceps",
+      "Glutes"
+    ],
+    "isBothSides": true
+  },
+  "Elbow Plank": {
+    "index": 85,
+    "name": "Elbow Plank",
+    "desc": "Place your forearms on the floor with your elbows under your shoulders. Ground your toes into the floor and engage your abs, shouldes, back, and glutes to stabilize the body. Be careful not to lock or hyperextend your knees. Keep a straight spine with your head in line with your back and look at a spot on the floor slightly above your hands. Keep your arms parallel to your body or clasp your hands together.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Abdomen",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "elbow_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques",
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Lower Back"
+    ],
+    "isBothSides": false
+  },
+  "Elbow Plank Leg Lift": {
+    "index": 86,
+    "name": "Elbow Plank Leg Lift",
+    "desc": "Place your forearms on the floor with your elbows under your shoulders. Ground your toes into the floor and engage your abs, shouldes, back, and glutes to stabilize the body. Be careful not to lock or hyperextend your knees. While keeping your core engaged, slowly raise your left leg off the floor until it\u00e2\u20ac\u2122s at about hip height. Keep a straight spine with your head in line with your back and look at a spot on the floor slightly above your hands.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "elbow_plank_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques",
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Elbow Side Plank": {
+    "index": 87,
+    "name": "Elbow Side Plank",
+    "desc": "Lying on your left side with your legs straight and feet stacked on top of each other, place your left elbow under your left shoulder. Engage your core to lift your hips up off the floor so that you\u00e2\u20ac\u2122re supporting your weight on your left elbow and the side of your left foot. Keep your body in a straight line and place your right hand on your hip or lift it up toward the ceiling.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "elbow_side_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Shoulders",
+      "Triceps"
+    ],
+    "isBothSides": true
+  },
+  "Elbow Side Plank Leg Lift": {
+    "index": 88,
+    "name": "Elbow Side Plank Leg Lift",
+    "desc": "Lying on your left side with your legs straight and feet stacked on top of each other, place your left elbow under your left shoulder. Engage your core to lift your hips up off the floor so that you\u00e2\u20ac\u2122re supporting your weight on your left elbow and the side of your left foot. Keeping your body in a straight line, place your right hand on your hip and raise your right leg until it\u00e2\u20ac\u2122s at about hip height.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "elbow_side_plank_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Shoulders",
+      "Triceps",
+      "Glutes"
+    ],
+    "isBothSides": true
+  },
+  "Single Arm Plank": {
+    "index": 89,
+    "name": "Single Arm Plank",
+    "desc": "Place your hands under your shoulders so they are almost touching and spread your legs to slightly wider than shoulder width behind you. Engage your core to stabilize your body, ground your left hand into the floor, and lift your right hand off the floor and out to the side or to rest on your hip. Hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "single_arm_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Obliques",
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Bulldog": {
+    "index": 90,
+    "name": "Bulldog",
+    "desc": "Start on your hands and knees with your toes on the floor. Press into the floor to activate your shoulder and chest muscles and engage your glutes and core to lift your knees slightly off the floor. Keep your in a neutral position and look down at the floor. Keep your back straight and stomach in and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "bulldog"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Upper Back",
+      "Glutes",
+      "Shoulders",
+      "Chest",
+      "Triceps"
+    ],
+    "isBothSides": false
+  },
+  "Bird Dog": {
+    "index": 91,
+    "name": "Bird Dog",
+    "desc": "Start on your hands and knees with your knees hip-width apart and hands about shoulder-width apart. Engage your core to simultaneously extend your left arm straight out in front of you and your right leg straight back behind you. Keep your hips squared and try to form a straight line all the way from your left hand to your right foot. Hold the position.",
+    "cautionAreas": [
+      "Knees",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "bird_dog"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Lower Back",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Bird Dog Plank": {
+    "index": 92,
+    "name": "Bird Dog Plank",
+    "desc": "Place your hands under your shoulders so they are almost touching. Engage your core to simultaneously extend your left arm straight out in front of you and your right leg straight back behind you. Keep your hips squared and try to form a straight line all the way from your left hand to your right foot. Hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "bird_dog_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Lower Back",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Push Up Hold": {
+    "index": 93,
+    "name": "Push Up Hold",
+    "desc": "Start in a push up position with your arms and legs straight and your hands slightly wider than your shoulders. While keeping your elbows out, slowly lower your body until your chest nearly touches the floor. Keep your back straight and head facing down and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "push_up_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Narrow Push Up Hold": {
+    "index": 94,
+    "name": "Narrow Push Up Hold",
+    "desc": "Start in a push up position with your arms and legs straight and your hands shoulder-width apart. While keeping your elbows in against your body, slowly lower your body until your chest nearly touches the floor. Keep your back straight and head facing down and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Calves",
+      "Abdomen",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "narrow_push_up_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Spiderman Push Up Hold": {
+    "index": 95,
+    "name": "Spiderman Push Up Hold",
+    "desc": "Start in a push up position with your arms and legs straight and your hands slightly wider than your shoulders. Lower your body until your chest nearly touches the floor and bring your right knee forward to your right elbow. Keep your back straight and elbows in toward you ribs and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "spiderman_push_up_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Chest",
+      "Triceps",
+      "Shoulders",
+      "Obliques"
+    ],
+    "isBothSides": true
+  },
+  "Bridge": {
+    "index": 96,
+    "name": "Bridge",
+    "desc": "Start lying on your back with your knees bent and feet flat on the floor. Lift your hips up off the floor until your knees, hips, and shoulders form a straight line. Engage your core to draw your abs in toward your spine and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Quadriceps",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "bridge"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Lower Back",
+      "Hamstrings"
+    ],
+    "isBothSides": false
+  },
+  "Bridge Leg Lift": {
+    "index": 97,
+    "name": "Bridge Leg Lift",
+    "desc": "Start lying on your back with your knees bent and feet flat on the floor. Lift your hips up off the floor until your knees, hips, and shoulders form a straight line. Engage your core to draw your abs in toward your spine and slowly raise your right leg up so it's in line with the rest of your body. Hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Quadriceps",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "bridge_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Quadriceps",
+      "Glutes",
+      "Lower Back",
+      "Hamstrings",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Reverse Plank": {
+    "index": 98,
+    "name": "Reverse Plank",
+    "desc": "Start sitting on the floor with your legs extended in front of you. Place your palms on the floor, slightly behind and outside your hips. Engage your core to lift your hips and torso toward the ceiling. Keep your back, arms, and legs straight and drop your shoulders to form a straight line from your head to your heels.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "reverse_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Lower Back",
+      "Glutes",
+      "Hamstrings",
+      "Abdomen",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Reverse Plank Leg Lift": {
+    "index": 99,
+    "name": "Reverse Plank Leg Lift",
+    "desc": "Start sitting on the floor with your legs extended in front of you. Place your palms on the floor, slightly behind and outside your hips. Engage your core to lift your hips and torso toward the ceiling. Keep your back, arms, and legs straight and drop your shoulders to form a straight line from your head to your heels. Engage your core to raise your right leg up off the floor and hold the position.",
+    "cautionAreas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "reverse_plank_leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Lower Back",
+      "Glutes",
+      "Hamstrings",
+      "Abdomen",
+      "Shoulders",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Squat Hold": {
+    "index": 100,
+    "name": "Squat Hold",
+    "desc": "Stand with your feet shoulder-width apart and your toes angled slightly outward. Keep your back straight and heels on the ground and bend your knees until your thighs are parallel with the floor. Hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "squat_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Glutes",
+      "Calves"
+    ],
+    "isBothSides": false
+  },
+  "Narrow Squat Hold": {
+    "index": 101,
+    "name": "Narrow Squat Hold",
+    "desc": "Start standing up with your feet together. Keep your back straight and heels on the ground and bend your knees until your thighs are nearly parallel with the floor. Hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "narrow_squat_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Glutes",
+      "Calves"
+    ],
+    "isBothSides": false
+  },
+  "Sumo Squat Hold": {
+    "index": 102,
+    "name": "Sumo Squat Hold",
+    "desc": "Start standing with your feet slightly wider than shoulder-width apart, externally rotating your hips and turning your feet to point outwards. Keep your back straight and squat down until your thighs are parallel with the floor. Push up through your heels and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "sumo_squat_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Glutes",
+      "Calves",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Pistol Squat Hold": {
+    "index": 103,
+    "name": "Pistol Squat Hold",
+    "desc": "Start standing with your feet hip-width apart. Engage your core to extend both arms and your left leg out in front of you. Slowly bend your right knee and squat down as low as possible until your right thigh touches your right heel. Keep your back and torso straight and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "pistol_squat_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Calves"
+    ],
+    "isBothSides": true
+  },
+  "Leg Lift": {
+    "index": 104,
+    "name": "Leg Lift",
+    "desc": "Start lying flat on your back with your legs straight out and yours arms behind your head or at your sides. Keeping your legs straight and together, slowly raise your legs up about 1_2 feet off the floor. Engage your core to keep your lower back flat against the floor and hold the position.",
+    "cautionAreas": [
+      "Quadriceps",
+      "Hamstrings",
+      "Abdomen",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "leg_lift"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Hips",
+      "Quadriceps"
+    ],
+    "isBothSides": false
+  },
+  "Superman": {
+    "index": 105,
+    "name": "Superman",
+    "desc": "Start lying on your stomach with your legs straight back and your arms out in front of you. Keeping your head in a neutral position, slowly lift your arms and legs off the ground and hold the position.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "superman"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Lower Back",
+      "Upper Back",
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Aquaman": {
+    "index": 106,
+    "name": "Aquaman",
+    "desc": "Start lying on your stomach with your legs straight back and your arms out in front of you. Keeping your head in a neutral position, slowly raise your right arm and left leg off the ground and hold the position.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "aquaman"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Lower Back",
+      "Upper Back",
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Airplane": {
+    "index": 107,
+    "name": "Airplane",
+    "desc": "Start lying on your stomach with your legs straight back and your arms extended straight out to the sides. Keeping your head in a neutral position, slowly raise your upper body, arms, and torso off of the ground. Keep your arms straight out and aligned with your chest and hold the position.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy"
+    ],
+    "images": [
+      "airplane"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Lower Back",
+      "Upper Back",
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Split Lunge Hold": {
+    "index": 108,
+    "name": "Split Lunge Hold",
+    "desc": "Start standing with your feet hip-width apart. Step forward with your right leg, lowering your body until both knees are bent at around a 90-degree angle. Keep your right knee above your ankle and your left knee slightly off the floor. Relax your shoulders and keep a straight spine and torso and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "split_lunge_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Quadriceps",
+      "Hamstrings",
+      "Calves",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Side Lunge Hold": {
+    "index": 109,
+    "name": "Side Lunge Hold",
+    "desc": "Start standing with a wide stance and a slight bend in your knees. Keeping your back and torso upright, shift your body weight to your right leg, bending your knee until your right thigh is parallel with the floor. Keep your left leg straight and your arms extended out in front of you or on your hips and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "side_lunge_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Quadriceps",
+      "Hamstrings",
+      "Calves",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Curtsy Lunge Hold": {
+    "index": 110,
+    "name": "Curtsy Lunge Hold",
+    "desc": "Start standing with your feet shoulder-width apart and your arms at your sides. With your weight on your right foot, step back and around with your left foot, crossing it behind you and lowering your body until your right thigh is parallel with the floor. Keep your torso upright and your hips and shoulders square. Bring your arms up in front of your chest and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Pelvis",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "curtsy_lunge_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Quadriceps",
+      "Hamstrings",
+      "Calves",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Front Leg Raise": {
+    "index": 111,
+    "name": "Front Leg Raise",
+    "desc": "Start standing with your feet shoulder-width apart and your arms at your sides. With your weight on your left foot, raise your right leg up until it's nearly parallel with the floor. Keep your right leg straight, your torso upright, and your hips and shoulders square. Place your hands on your hips or in front of your chest and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Lower Back"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "front_leg_raise"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Hips",
+      "Quadriceps"
+    ],
+    "isBothSides": true
+  },
+  "Back Leg Raise": {
+    "index": 112,
+    "name": "Back Leg Raise",
+    "desc": "Start standing with your feet shoulder-width apart and your arms at your sides. With your weight on your left foot, raise your right leg back behind you. Keep your right leg straight, your torso upright, and your hips and shoulders square. Place your hands at your sides or on your hips hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Hamstrings",
+      "Hips",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "back_leg_raise"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Glutes",
+      "Lower Back",
+      "Hamstrings"
+    ],
+    "isBothSides": true
+  },
+  "Side Leg Raise": {
+    "index": 113,
+    "name": "Side Leg Raise",
+    "desc": "Start standing with your feet shoulder-width apart and your arms at your sides. With your weight on your left foot, raise your right leg out to the side. Keep your right leg straight, your torso upright, and your hips and shoulders square. Place your hands on your hips and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Groin",
+      "Hips",
+      "Buttocks"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "side_leg_raise"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Glutes",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Hollow Body": {
+    "index": 114,
+    "name": "Hollow Body",
+    "desc": "Start lying flat on your back with your legs straight and your arms over your head. Simultaneously raise your upper and lower body so that your upper back, arms, and legs rise off the floor. Keep your chin tucked into your chest and hold the position.",
+    "cautionAreas": [
+      "Quadriceps",
+      "Abdomen",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "hollow_body"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Hips",
+      "Quadriceps",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Lying Side Leg Raise": {
+    "index": 115,
+    "name": "Lying Side Leg Raise",
+    "desc": "Start lying on your left side with your legs together and your feet stacked on top of each other. Keep your left leg on the floor as you slowly raise your right leg up towards the ceiling. Keep your body in a straight line and hold the position.",
+    "cautionAreas": [
+      "Groin",
+      "Hips",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "lying_side_leg_raise"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Obliques",
+      "Abdomen",
+      "Glutes",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Dead Bug": {
+    "index": 116,
+    "name": "Dead Bug",
+    "desc": "Start lying flat on your back with your legs straight and your arms over your head. Raise your right arm straight up into the air and bring your left knee up and in so that your thigh is perpendicular to your body. Raise your left arm and right leg slightly off the floor and hold the position.",
+    "cautionAreas": [
+      "Knees",
+      "Quadriceps",
+      "Hips",
+      "Abdomen",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "dead_bug"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Abdomen",
+      "Hips",
+      "Quadriceps",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Elbow Pike": {
+    "index": 117,
+    "name": "Elbow Pike",
+    "desc": "Start in a plank position with your elbows under your shoulders and shoulder-width apart. Keeping your legs as straight as possible, lift your hips up and back until your body forms an inverted V shape. Keep your back straight and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "elbow_pike"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Pike": {
+    "index": 118,
+    "name": "Pike",
+    "desc": "Start in a push up position with your hands under your shoulders and slightly wider than shoulder-width apart. Keeping your arms and legs as straight as possible, lift your hips up and back until your body forms an inverted V shape. Keep your back straight and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "pike"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Bent Arm Pike": {
+    "index": 119,
+    "name": "Bent Arm Pike",
+    "desc": "Start in a push up position with your hands under your shoulders and slightly wider than shoulder-width apart. Keeping your arms and legs as straight as possible, lift your hips up and back until your body forms an inverted V shape. Bend your arms to lower your upper body toward the floor and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Calves",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "bent_arm_pike"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Dip Hold": {
+    "index": 120,
+    "name": "Dip Hold",
+    "desc": "Start sitting on the floor with your knees bent in front of you and your hands positioned slightly behind you, shoulder-width apart. Press into the floor using your hands and feet to lift your body several inches off the floor. Keep a slight bend in your elbows and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Hips",
+      "Abdomen",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "dip_hold"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Chest",
+      "Triceps",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Wall Sit": {
+    "index": 121,
+    "name": "Wall Sit",
+    "desc": "Start standing against a wall with your feet shoulder-width apart and your arms at your sides. Walk your feet about 2 feet forward and slide your body down the wall until your thighs are parallel to the floor and your knees are positioned directly above your ankles. Keep your head and upper body rested flat against the wall and hold the position.",
+    "cautionAreas": [
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Abdomen",
+      "Buttocks",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "wall_sit"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Glutes",
+      "Hamstrings",
+      "Calves"
+    ],
+    "isBothSides": false
+  },
+  "Wall Pike": {
+    "index": 122,
+    "name": "Wall Pike",
+    "desc": "Start on your hands and knees about a foot away from a wall, facing away from it. Walk your feet back towards the wall and then slowly start walking up the wall. Lift your hips up until your thighs are parallel with the floor. Keep your torso and upper body straight and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "wall_pike"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Upper Back",
+      "Chest",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Wall Plank": {
+    "index": 123,
+    "name": "Wall Plank",
+    "desc": "Start on your hands and knees several feet from a wall, facing away from it. Walk your feet back towards the wall and then slowly start walking up the wall until your body is parallel with the floor. Keep your shoulders directly above your wrists and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "wall_plank"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Upper Back",
+      "Chest",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Wall Handstand": {
+    "index": 124,
+    "name": "Wall Handstand",
+    "desc": "Start on your hands and knees with the soles of your feet against the wall. Slowly lift your hips up into the air and start to walk your feet up the wall. As your feet move higher up the wall, move your hands closer to the wall until your body forms a straight line parallel to the wall, with the tips of your toes touching the wall. Keep your body straight and hold the position.",
+    "cautionAreas": [
+      "Toes",
+      "Feet",
+      "Ankles",
+      "Shins",
+      "Calves",
+      "Knees",
+      "Quadriceps",
+      "Hamstrings",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Dizziness",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "wall_handstand"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Shoulders",
+      "Upper Back",
+      "Chest",
+      "Abdomen"
+    ],
+    "isBothSides": false
+  },
+  "Chin Retractions": {
+    "index": 125,
+    "name": "Chin Retractions",
+    "desc": "From a sitting or standing position with your shoulders relaxed, slowly draw your chin straight backwards without tilting your head up or down. If you find this movement difficult, you can use your fingers to help gently guide your chin and neck backward, aiming for 70-80%% of your full range of motion.",
+    "cautionAreas": [],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "chin_retractions"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Neck"
+    ],
+    "isBothSides": false
+  },
+  "Wall Pecs": {
+    "index": 126,
+    "name": "Wall Pecs",
+    "desc": "Start in a staggered stance, with your forearm against a door frame or wall, your elbow at a 90-degree angle, and your upper arms parallel to the floor. Using the doorway or wall as resistance, lean forward and rotate your torso in the opposite direction. Keep your neck and shoulders relaxed and back off if you feel any sharp pain.",
+    "cautionAreas": [
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "wall_pecs"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Doorway Pecs": {
+    "index": 127,
+    "name": "Doorway Pecs",
+    "desc": "Start by standing in an open doorway. Raise both of your arms to the sides, keeping your upper arms parallel to the floor and placing each palm and forearm on the outsides of the door frame. Using the doorway as resistance, slowly step forward with one foot and shift your weight forward. Keep your neck and shoulders relaxed and back off if you feel any sharp pain.",
+    "cautionAreas": [
+      "Elbows",
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "doorway_pecs"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders"
+    ],
+    "isBothSides": false
+  },
+  "Reverse Shoulder": {
+    "index": 128,
+    "name": "Reverse Shoulder",
+    "desc": "Start by standing with your feet shoulder-width apart and your arms at your sides. Clasp your hands behind your back with your thumbs pointing towards the floor. Slowly lift and elongate your spine, open your chest, and stand tall as you move your hands back and toward the ceiling. Keep your neck and shoulders relaxed and back off if you feel any sharp pain.",
+    "cautionAreas": [
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "reverse_shoulder"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders",
+      "Biceps"
+    ],
+    "isBothSides": false
+  },
+  "Seated Chest": {
+    "index": 129,
+    "name": "Seated Chest",
+    "desc": "Start by sitting on the floor with your knees bent and your feet flat on the floor. Place your palms on the floor behind you with your fingers pointing away from your body. Keeping your legs in place, slowly slide your hands away from your body. Keep your neck and shoulders relaxed and back off if you feel any sharp pain.",
+    "cautionAreas": [
+      "Feet",
+      "Knees",
+      "Quadriceps",
+      "Fingers",
+      "Hands",
+      "Wrists",
+      "Forearms",
+      "Elbows",
+      "Biceps",
+      "Triceps",
+      "Chest",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "seated_chest"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Chest",
+      "Shoulders",
+      "Biceps"
+    ],
+    "isBothSides": false
+  },
+  "Pelvic Tilt Press": {
+    "index": 130,
+    "name": "Pelvic Tilt Press",
+    "desc": "Start by lying on your back with your knees bent, feet flat on the floor, and your arms at your sides. Engage your abdomen and glutes to tilt your pelvis up and toward you while pressing your lower back flat into the floor.",
+    "cautionAreas": [
+      "Abdomen"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "pelvic_tilt_press"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back"
+    ],
+    "isBothSides": false
+  },
+  "Single Knee-to-Chest": {
+    "index": 131,
+    "name": "Single Knee-to-Chest",
+    "desc": "Start by lying on your back with your legs extended and your lower back pressed flat into the floor. While keeping a neutral spine, bend one of your knees, bringing it up and pulling it back toward your chest. Relax your opposite leg and lower back.",
+    "cautionAreas": [
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips",
+      "Pelvis",
+      "Abdomen",
+      "Buttocks"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "single_knee_to_chest"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Lower Back",
+      "Hamstrings",
+      "Glutes",
+      "Hips"
+    ],
+    "isBothSides": true
+  },
+  "Lying Quad Stretch": {
+    "index": 132,
+    "name": "Lying Quad Stretch",
+    "desc": "Start by lying on the floor on your side. Use your hand to prop up your head or rest your upper body on your elbow. With your opposite hand, grab your top foot and pull it back toward your buttocks.",
+    "cautionAreas": [
+      "Ankles",
+      "Knees",
+      "Quadriceps"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "lying_quad_stretch"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Quadriceps",
+      "Ankles",
+      "Hips",
+      "Shins",
+      "Knees"
+    ],
+    "isBothSides": true
+  },
+  "90/90": {
+    "index": 133,
+    "name": "90/90",
+    "desc": "Start by sitting on the floor with your legs stretched out in front of you. Bend your knees so that they form a 90-degree angle, with your feet planted on the ground. Ensure that your hips and knees align with each other. Next, let your knees fall to one side so that your knees are against the floor while maintaining a 90-degree bend at your knees. Keep your back straight and lean your upper body forward, placing your hands on the floor in front of you.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "_9090"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Glutes",
+      "Knees",
+      "Groin"
+    ],
+    "isBothSides": true
+  },
+  "Leaning 90/90": {
+    "index": 134,
+    "name": "Leaning 90/90",
+    "desc": "Start by sitting on the floor with your legs stretched out in front of you. Bend your knees so that they form a 90-degree angle, with your feet planted on the ground. Ensure that your hips and knees align with each other. Next, let your knees fall to one side so that your knees are against the floor while maintaining a 90-degree bend at your knees. Place your hands behind you and keep your back straight.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips",
+      "Pelvis"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "leaning_9090"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Hips",
+      "Glutes",
+      "Knees",
+      "Groin"
+    ],
+    "isBothSides": true
+  },
+  "Figure Four Twist": {
+    "index": 135,
+    "name": "Figure Four Twist",
+    "desc": "Start by lying on your back with knees bent and feet flat on the floor. Cross one leg over the other so your foot is resting on the knee of your lower leg and your other foot is flat on the floor. Next, let your legs fall to the side so that the top foot comes to the floor and the bottom leg rests on its side.",
+    "cautionAreas": [
+      "Knees",
+      "Hips",
+      "Pelvis",
+      "Buttocks",
+      "Lower Back",
+      "Spine"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "figure_four_twist"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "IT Band",
+      "Hips",
+      "Glutes",
+      "Lower Back",
+      "Spine"
+    ],
+    "isBothSides": true
+  },
+  "Leaning Figure Four": {
+    "index": 136,
+    "name": "Leaning Figure Four",
+    "desc": "Start by sitting on the floor with your knees bent and your feet flat on the ground. Place your hands behind you to support your body and keep your back straight. Cross one leg over the other so your ankle is resting on the knee of your lower leg and your other foot is flat on the floor. Open your chest and extend your spine upwards.",
+    "cautionAreas": [
+      "Knees",
+      "Hips",
+      "Buttocks",
+      "Wrists"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "leaning_figure_four"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "IT Band",
+      "Hips",
+      "Glutes",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Reverse Butterfly": {
+    "index": 137,
+    "name": "Reverse Butterfly",
+    "desc": "Start by lying flat on your back, with your knees bent and your feet flat on the ground. Widen your feet to more than hip-width apart and allow your knees to fall inward towards each other while letting your feet extend outward.",
+    "cautionAreas": [
+      "Knees",
+      "Groin",
+      "Hips"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Osteoporosis"
+    ],
+    "images": [
+      "reverse_butterfly"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Knees",
+      "Hips"
+    ],
+    "isBothSides": false
+  },
+  "Standing Frog": {
+    "index": 138,
+    "name": "Standing Frog",
+    "desc": "Start standing up with your feet more than hip-width apart and your toes angled outwards. Gradually lower your body into a squat position to form 90-degrees angle at the knees, while making sure your knees are directly above your ankles. Place each hand on the inside part of the knee and gently press outward to spread your hips further apart.",
+    "cautionAreas": [
+      "Knees",
+      "Quadriceps",
+      "Groin",
+      "Hips"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "standing_frog"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Hips",
+      "Groin",
+      "Glutes",
+      "Knees"
+    ],
+    "isBothSides": false
+  },
+  "Scapula Stretch": {
+    "index": 139,
+    "name": "Scapula Stretch",
+    "desc": "From a standing or seated position, keep your head level and rotate it to look to one side. Next, rotate your head downward to look at your armpit. Use your hand to gently pull down on the back of your head to further the stretch.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "scapula_stretch"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Scalene Stretch": {
+    "index": 140,
+    "name": "Scalene Stretch",
+    "desc": "From a standing or seated position, cross your hands and place them over your chest. Gently bring your ear to your shoulder, then rotate your neck and point your chin up toward the ceiling.",
+    "cautionAreas": [
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "scalene_stretch"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Chest",
+      "Spine",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Modified Seated Twist": {
+    "index": 141,
+    "name": "Modified Seated Twist",
+    "desc": "Start by sitting on the floor with your legs in front of you. Cross one leg over the other to bring the foot outside of the other leg and up by your thigh. Bend the bottom leg at the knee to bring the bottom foot toward your buttocks. Place one hand behind you and rotate your upper body to the side by pushing against the outside of your knee with the outside of your elbow.",
+    "cautionAreas": [
+      "Knees",
+      "Hips",
+      "Buttocks",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "modified_seated_twist"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "IT Band",
+      "Hips",
+      "Glutes",
+      "Lower Back",
+      "Spine"
+    ],
+    "isBothSides": true
+  },
+  "Standing Lunge Twist": {
+    "index": 142,
+    "name": "Standing Lunge Twist",
+    "desc": "Start standing with your feet hip-width apart. Step forward with one leg and lower your body until your front thigh is parallel to the floor while keeping your back leg straight. Place your hand on the floor next to your front foot and rotate your body, reaching up with your opposite hand.",
+    "cautionAreas": [
+      "Hips",
+      "Hands",
+      "Wrists",
+      "Chest",
+      "Lower Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Strength"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Pregnancy",
+      "Osteoporosis",
+      "Herniated Disc",
+      "Sciatica",
+      "High Blood Pressure",
+      "Heart Condition"
+    ],
+    "images": [
+      "standing_lunge_twist"
+    ],
+    "categoryType": [
+      "Isometrics"
+    ],
+    "areas": [
+      "Hips",
+      "Lower Back",
+      "Psoas",
+      "Chest",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Cross Leg Fold": {
+    "index": 148,
+    "name": "Cross Leg Fold",
+    "desc": "Start from a standing position with your feet hip-width apart and your toes facing forward. Cross one foot over the other, then gently fold forward at the hips while reaching down toward the floor and keeping a straight spine.",
+    "cautionAreas": [
+      "Hamstrings",
+      "Hips",
+      "Pelvis",
+      "Lower Back",
+      "Upper Back",
+      "Spine",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Pregnancy",
+      "Herniated Disc",
+      "Sciatica"
+    ],
+    "images": [
+      "cross_leg_fold"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Hamstrings",
+      "Hips",
+      "Lower Back"
+    ],
+    "isBothSides": true
+  },
+  "Kneeling Psoas": {
+    "index": 149,
+    "name": "Kneeling Psoas",
+    "desc": "Start from a kneeling position with your hands at your sides. Step forward with one leg so that your foot is flat on the floor and your knee is directly over your ankle. Raise your opposite arm above your head, reaching up and over your head to deepen the stretch. If necessary, place a towel or blanket under your knee for additional support.",
+    "cautionAreas": [
+      "Knees",
+      "Hips",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Osteoporosis"
+    ],
+    "images": [
+      "kneeling_psoas"
+    ],
+    "categoryType": [
+      "Floor"
+    ],
+    "areas": [
+      "Psoas",
+      "Quadriceps",
+      "Hips",
+      "IT Band",
+      "Lower Back",
+      "Obliques",
+      "Lats"
+    ],
+    "isBothSides": true
+  },
+  "Bear Hug": {
+    "index": 150,
+    "name": "Bear Hug",
+    "desc": "From a seated or standing position, straighten your back and inhale as you open your arms wide. Cross your arms as you exhale, placing one arm on top of the other to give yourself a hug. Tilt your head down and use your hands to draw your shoulders in and deepen the stretch.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "bear_hug"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Neck",
+      "Shoulders",
+      "Upper Back",
+      "Spine"
+    ],
+    "isBothSides": true
+  },
+  "Cow Face": {
+    "index": 151,
+    "name": "Cow Face",
+    "desc": "From a seated or standing position, straighten your back and bring one arm up toward the ceiling, then bend your arm at the elbow to bring your hand down to the back of your neck. Lift your opposite arm out to the side, then bend it at the elbow and bring it back in behind your back. If possible, bring your hands together to clasp your hands behind your back.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "cow_face"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "isBothSides": true
+  },
+  "Eagle Arm": {
+    "index": 152,
+    "name": "Eagle Arm",
+    "desc": "From a seated or standing position, straighten your back and inhale as you bring both arms straight out in front of you. Exhale as your cross one arm over the other, so that your top arm is resting on top of your bottom elbow. Next bring your bottom arm and hand up toward your face, then finally bring your other hand up toward your face as well.",
+    "cautionAreas": [
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "eagle_arm"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Lats",
+      "Triceps",
+      "Upper Back",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  },
+  "Ear-to-Shoulder": {
+    "index": 153,
+    "name": "Ear-to-Shoulder",
+    "desc": "From a seated or standing position, straighten your back and bring on your arms behind your back, bending it at the elbow if possible. Using your other arm, gently pull your head to the side to bring your ear down toward your shoulder.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "ear_to_shoulder"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Shoulders",
+      "Neck"
+    ],
+    "isBothSides": true
+  },
+  "Neck Extension": {
+    "index": 154,
+    "name": "Neck Extension",
+    "desc": "From a seated or standing position, straighten your back and tilt head up and back to point your chin straight up at the ceiling. Keep your mouth closed and use your hand to gently push your chin further up and back to deepen the stretch.",
+    "cautionAreas": [
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "neck_extension"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Neck"
+    ],
+    "isBothSides": false
+  },
+  "Neck Flexion": {
+    "index": 155,
+    "name": "Neck Flexion",
+    "desc": "From a seated or standing position, straighten your back and tilt your head forward to bring your chin to the top of your chest. Interlock your fingers behind your head and gently pull down on the back of your head to deepen the stretch.",
+    "cautionAreas": [
+      "Spine",
+      "Shoulders",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo",
+      "Osteoporosis",
+      "Herniated Disc"
+    ],
+    "images": [
+      "neck_flexion"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Upper Back",
+      "Neck"
+    ],
+    "isBothSides": false
+  },
+  "Neck Rotation": {
+    "index": 156,
+    "name": "Neck Rotation",
+    "desc": "From a seated or standing position, straighten your back and rotate your head to the side while keeping your head level with the floor. Use your hand to gently push against the side of your chin to deepen the stretch.",
+    "cautionAreas": [
+      "Spine",
+      "Neck"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [
+      "Vertigo"
+    ],
+    "images": [
+      "neck_rotation"
+    ],
+    "categoryType": [
+      "Standing",
+      "Sitting"
+    ],
+    "areas": [
+      "Neck"
+    ],
+    "isBothSides": true
+  },
+  "Wall Arms": {
+    "index": 157,
+    "name": "Wall Arms",
+    "desc": "Start from a standing position with your feet hip-width apart and your side facing the wall. While keeping your feet in place, rotate your body to reach back with your arm and place your palm against the wall behind you. Rotate your body back to facing forward to deepen stretch.",
+    "cautionAreas": [
+      "Chest",
+      "Shoulders"
+    ],
+    "categories": [
+      "Flexibility"
+    ],
+    "animationIsLoop": false,
+    "time": 30,
+    "isAnimated": false,
+    "conditions": [],
+    "images": [
+      "wall_arms"
+    ],
+    "categoryType": [
+      "Standing"
+    ],
+    "areas": [
+      "Biceps",
+      "Chest",
+      "Shoulders"
+    ],
+    "isBothSides": true
+  }
+}

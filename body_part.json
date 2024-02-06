@@ -1,0 +1,93 @@
+{
+  "Chest": {
+    "image": "chest_opener_standing",
+    "routines": [
+      "Chest 1",
+      "Chest 2",
+      "Chest 3"
+    ]
+  },
+  "Hamstrings": {
+    "image": "hurdler",
+    "routines": [
+      "Hamstrings",
+      "Hamstrings 1",
+      "Hamstrings 2",
+      "Hamstrings 3"
+    ]
+  },
+  "Hips": {
+    "image": "side_lunge",
+    "routines": [
+      "Flexibility>>Hips",
+      "Flexibility>>Hips 1",
+      "Flexibility>>Hips 2",
+      "Flexibility>>Hips 3",
+      "Flexibility>>Hips 4",
+      "Flexibility>>Hips 5",
+      "Flexibility>>Hips 6",
+      "Flexibility>>Hips 7",
+      "Long Hold>>Long Hips 1",
+      "Long Hold>>Long Hips 2",
+      "Long Hold>>Long Hips 3"
+    ]
+  },
+  "Lower Back": {
+    "image": "lying_figure_four",
+    "routines": [
+      "Flexibility>>Lower Back",
+      "Flexibility>>Lower Back 1",
+      "Flexibility>>Lower Back 2",
+      "Flexibility>>Lower Back 3",
+      "Flexibility>>Lower Back 4",
+      "Flexibility>>Lower Back 5",
+      "Flexibility>>Lower Back 6",
+      "Hybrid>>Lower Back Hybrid 1",
+      "Hybrid>>Lower Back Hybrid 2",
+      "Hybrid>>Lower Back Hybrid 3"
+    ]
+  },
+  "Lower Body": {
+    "image": "plow",
+    "routines": [
+      "Lower Body 1",
+      "Lower Body 2",
+      "Lower Body 3"
+    ]
+  },
+  "Neck": {
+    "image": "scapula_stretch",
+    "routines": [
+      "Neck 1",
+      "Neck 2",
+      "Neck 3",
+      "Neck 4",
+      "Neck 5"
+    ]
+  },
+  "Quads": {
+    "image": "standing_quad",
+    "routines": [
+      "Quads 1",
+      "Quads 2",
+      "Quads 3"
+    ]
+  },
+  "Shoulders": {
+    "image": "seated_chest",
+    "routines": [
+      "Shoulders",
+      "Shoulders 1",
+      "Shoulders 2",
+      "Shoulders 3"
+    ]
+  },
+  "Upper Body": {
+    "image": "cow_face",
+    "routines": [
+      "Upper Body 1",
+      "Upper Body 2",
+      "Upper Body 3"
+    ]
+  }
+}
