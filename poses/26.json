@@ -1,0 +1,43 @@
+{
+  "index": 26,
+  "name": "Wide Leg Bend",
+  "desc": "From a standing position, keep your toes pointed forward and widen your stance while maintaining stability. Keeping a slight bend in the knees, gently fold forward at the hips and touch the floor with your fingers or palms. If possible, continue to reach further back to deepen the stretch.",
+  "cautionAreas": [
+    "Ankles",
+    "Knees",
+    "Hamstrings",
+    "Groin",
+    "Hips",
+    "Lower Back"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness",
+    "Pregnancy",
+    "Osteoporosis",
+    "Herniated Disc",
+    "Sciatica",
+    "High Blood Pressure",
+    "Heart Condition"
+  ],
+  "images": [
+    "wide_leg_bend"
+  ],
+  "categoryType": [
+    "Standing"
+  ],
+  "areas": [
+    "Lower Back",
+    "Hamstrings",
+    "Calves",
+    "Groin",
+    "Hips"
+  ],
+  "isBothSides": false
+}

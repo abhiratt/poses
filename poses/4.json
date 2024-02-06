@@ -1,0 +1,42 @@
+{
+  "index": 4,
+  "name": "Downward Dog",
+  "desc": "Start on your hands and knees with your wrists under your shoulders and your knees under your hips. Curl your toes under and push back through your hands to lift your hips toward the ceiling and straighten your legs. Lengthen your spine, draw your shoulder blades in, and let your heels sink toward the floor.",
+  "cautionAreas": [
+    "Feet",
+    "Ankles",
+    "Calves",
+    "Hamstrings",
+    "Hips",
+    "Pelvis",
+    "Hands",
+    "Wrists",
+    "Shoulders"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness",
+    "Herniated Disc",
+    "Sciatica"
+  ],
+  "images": [
+    "downward_dog"
+  ],
+  "categoryType": [
+    "Floor"
+  ],
+  "areas": [
+    "Hamstrings",
+    "Shoulders",
+    "Calves",
+    "Lower Back",
+    "Glutes"
+  ],
+  "isBothSides": false
+}

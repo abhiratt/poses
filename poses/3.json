@@ -1,0 +1,45 @@
+{
+  "index": 3,
+  "name": "Upward Dog",
+  "desc": "Start lying face-down on the floor with your legs straight behind you and your palms on the floor beside you, next to your ribs. Press down on your hands to straighten your arms and lift your chest, torso, and hips off the floor. Relax your shoulders and engage your legs and feet to keep your thighs lifted slightly off the floor.",
+  "cautionAreas": [
+    "Toes",
+    "Feet",
+    "Ankles",
+    "Shins",
+    "Hips",
+    "Abdomen",
+    "Wrists",
+    "Chest",
+    "Lower Back",
+    "Spine"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness",
+    "Pregnancy",
+    "Osteoporosis",
+    "Herniated Disc",
+    "Sciatica"
+  ],
+  "images": [
+    "upward_dog"
+  ],
+  "categoryType": [
+    "Floor"
+  ],
+  "areas": [
+    "Chest",
+    "Abdomen",
+    "Spine",
+    "Wrists",
+    "Psoas"
+  ],
+  "isBothSides": false
+}

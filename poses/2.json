@@ -1,0 +1,37 @@
+{
+  "index": 2,
+  "name": "Lunge",
+  "desc": "Start from a kneeling position with your hands at your sides. Step your left leg forward and position your left knee directly over your left ankle. Raise your arms above your head and shift your hips forward to deepen the lunge. If necessary, place a towel or blanket under your back knee for additional support.",
+  "cautionAreas": [
+    "Knees",
+    "Quadriceps",
+    "Groin",
+    "Hips",
+    "Pelvis",
+    "Shoulders"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Pregnancy",
+    "Osteoporosis"
+  ],
+  "images": [
+    "lunge"
+  ],
+  "categoryType": [
+    "Floor"
+  ],
+  "areas": [
+    "Hips",
+    "Quadriceps",
+    "Lower Back",
+    "Abdomen",
+    "Psoas"
+  ],
+  "isBothSides": true
+}

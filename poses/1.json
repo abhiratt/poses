@@ -1,0 +1,43 @@
+{
+  "index": 1,
+  "name": "Toe Touch",
+  "desc": "Start from a standing position with your feet hip-width apart and toes facing forward. Keeping a slight bend in the knees, gently fold forward at the hips and let your fingers hang down toward your toes.",
+  "cautionAreas": [
+    "Hamstrings",
+    "Hips",
+    "Pelvis",
+    "Lower Back",
+    "Upper Back",
+    "Spine",
+    "Shoulders"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness",
+    "Pregnancy",
+    "Osteoporosis",
+    "Herniated Disc",
+    "Sciatica",
+    "High Blood Pressure",
+    "Heart Condition"
+  ],
+  "images": [
+    "toe_touch"
+  ],
+  "categoryType": [
+    "Standing"
+  ],
+  "areas": [
+    "Lower Back",
+    "Hamstrings",
+    "Calves",
+    "Glutes"
+  ],
+  "isBothSides": false
+}

@@ -1,0 +1,39 @@
+{
+  "index": 14,
+  "name": "Child's Pose",
+  "desc": "Start from a kneeling position with your toes together and your knees hip-width apart. Lower your torso, allowing your stomach to rest between your knees and placing your forehead on the floor. Extend your arms forward with your palms against the floor and relax your shoulders toward the ground.",
+  "cautionAreas": [
+    "Feet",
+    "Ankles",
+    "Shins",
+    "Knees",
+    "Hips",
+    "Shoulders"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness",
+    "Pregnancy"
+  ],
+  "images": [
+    "child_pose"
+  ],
+  "categoryType": [
+    "Floor"
+  ],
+  "areas": [
+    "Lower Back",
+    "Shoulders",
+    "Hips",
+    "Ankles",
+    "Shins",
+    "Feet"
+  ],
+  "isBothSides": false
+}

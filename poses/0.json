@@ -1,0 +1,35 @@
+{
+  "index": 0,
+  "name": "Upward Salute",
+  "desc": "Start from a standing position with your arms hanging at your sides. Slowly sweep your arms out and up toward the ceiling, bringing your hands together overhead. Reach up and slightly back while keeping your neck and shoulders relaxed and lengthening your tailbone toward the ground.",
+  "cautionAreas": [
+    "Shoulders"
+  ],
+  "categories": [
+    "Flexibility"
+  ],
+  "animationIsLoop": false,
+  "time": 30,
+  "isAnimated": false,
+  "conditions": [
+    "Vertigo",
+    "Dizziness"
+  ],
+  "images": [
+    "upward_salute"
+  ],
+  "categoryType": [
+    "Standing"
+  ],
+  "areas": [
+    "Shoulders",
+    "Upper Back",
+    "Abdomen",
+    "Chest",
+    "Spine",
+    "Obliques",
+    "Lats",
+    "Chest"
+  ],
+  "isBothSides": false
+}
