@@ -1,0 +1,27 @@
+{
+  "exercise_order": [
+    138,
+    26,
+    23,
+    116,
+    42,
+    137,
+    96,
+    131,
+    50
+  ],
+  "desc": "A beginner routine designed to increase flexibility and strength in your hips.",
+  "image": "happy_baby",
+  "time_multiplier": [
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1
+  ],
+  "name": "Hips 7"
+}

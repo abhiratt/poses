@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    81,
+    93,
+    98,
+    89,
+    118,
+    119,
+    120,
+    94
+  ],
+  "desc": "An isometric exercise routine thats build muscle, strength, balance, and range of motion in targeted areas through static muscle contraction.",
+  "image": "dip_hold",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Arms"
+}

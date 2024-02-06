@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    77,
+    96,
+    116,
+    97,
+    78,
+    91,
+    107,
+    115,
+    87,
+    81
+  ],
+  "desc": "A series of planks and isometric exercises that improve posture by strengthening muscles in the core and back, supporting proper alignment of the spine, and improving balance and stability.",
+  "image": "airplane",
+  "time_multiplier": [
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    1,
+    0.5,
+    1,
+    1,
+    0.5
+  ],
+  "name": "Posture Stabilizer"
+}

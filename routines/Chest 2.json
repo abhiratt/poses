@@ -1,0 +1,41 @@
+{
+  "exercise_order": [
+    45,
+    61,
+    36,
+    0,
+    40,
+    38,
+    157,
+    53,
+    126,
+    127,
+    128,
+    52,
+    27,
+    160,
+    3,
+    14
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the chest.",
+  "image": "wall_arms",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1
+  ],
+  "name": "Chest 2"
+}

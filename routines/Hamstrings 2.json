@@ -1,0 +1,35 @@
+{
+  "exercise_order": [
+    1,
+    148,
+    26,
+    23,
+    63,
+    4,
+    13,
+    17,
+    64,
+    66,
+    25,
+    24,
+    31
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the hamstrings.",
+  "image": "reverse_lunge",
+  "time_multiplier": [
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1
+  ],
+  "name": "Hamstrings 2"
+}

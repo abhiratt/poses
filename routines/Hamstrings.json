@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    56,
+    26,
+    23,
+    63,
+    17,
+    64,
+    66,
+    65
+  ],
+  "desc": "Improve hamstring flexibility with subtle stretches designed to reduce hamstring tightness and relieve pressure on the knees, pelvis, and lower back.",
+  "image": "hurdler",
+  "time_multiplier": [
+    2,
+    2,
+    4,
+    4,
+    2,
+    4,
+    2,
+    4
+  ],
+  "name": "Hamstrings"
+}

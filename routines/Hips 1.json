@@ -1,0 +1,21 @@
+{
+  "exercise_order": [
+    2,
+    63,
+    18,
+    25,
+    16,
+    15
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the hips, including your hip flexors & extensors, abductors & adductors, and hip rotators.",
+  "image": "lunge",
+  "time_multiplier": [
+    2,
+    2,
+    1,
+    2,
+    2,
+    2
+  ],
+  "name": "Hips 1"
+}

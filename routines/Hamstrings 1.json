@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    1,
+    148,
+    26,
+    23,
+    63,
+    17,
+    64
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the hamstrings.",
+  "image": "hurdler",
+  "time_multiplier": [
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2
+  ],
+  "name": "Hamstrings 1"
+}

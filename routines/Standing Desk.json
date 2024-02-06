@@ -1,0 +1,27 @@
+{
+  "exercise_order": [
+    0,
+    1,
+    36,
+    38,
+    40,
+    52,
+    21,
+    22,
+    56
+  ],
+  "desc": "A quick series of standing stretches focused primarily on reducing tightness and increasing mobility in the shoulders, lower back, and neck.",
+  "image": "chest_opener_standing",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1
+  ],
+  "name": "Standing Desk"
+}

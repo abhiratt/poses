@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    43,
+    44,
+    47,
+    45,
+    61,
+    58,
+    46,
+    48,
+    59,
+    60
+  ],
+  "desc": "Prepare your body for physical activity with dynamic movements designed to elevate your body temperature, increase blood flow to muscles, and loosen up joints.",
+  "image": "jumping_jacks_1",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Warm Up"
+}

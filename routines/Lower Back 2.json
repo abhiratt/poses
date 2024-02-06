@@ -1,0 +1,37 @@
+{
+  "exercise_order": [
+    27,
+    3,
+    14,
+    4,
+    2,
+    63,
+    18,
+    28,
+    17,
+    16,
+    25,
+    15,
+    131,
+    50
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the lower back.",
+  "image": "downward_dog",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1
+  ],
+  "name": "Lower Back 2"
+}

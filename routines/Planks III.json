@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+  ],
+  "desc": "A series of plank poses activating all of the muscles in your core. A strong core improves posture and balance, increases flexibility, and reduces lower back pain.",
+  "image": "hand_plank_leg_lift",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Planks III"
+}

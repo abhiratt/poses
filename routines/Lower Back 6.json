@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    2,
+    63,
+    13,
+    85,
+    27,
+    28,
+    19
+  ],
+  "desc": "A beginner routine designed to increase flexibility and reduce pain in your lower back.",
+  "image": "knees_to_chest",
+  "time_multiplier": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1
+  ],
+  "name": "Lower Back 6"
+}

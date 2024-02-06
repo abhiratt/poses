@@ -1,0 +1,27 @@
+{
+  "exercise_order": [
+    56,
+    3,
+    14,
+    19,
+    50,
+    42,
+    15,
+    16,
+    20
+  ],
+  "desc": "Unwind and de-stress with gentle, long-hold stretches designed to improve sleep quality by relieving muscle tension and relaxing the body.",
+  "image": "spinal_twist",
+  "time_multiplier": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4
+  ],
+  "name": "Sleep"
+}

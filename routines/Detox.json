@@ -1,0 +1,27 @@
+{
+  "exercise_order": [
+    26,
+    3,
+    4,
+    27,
+    28,
+    15,
+    29,
+    30,
+    31
+  ],
+  "desc": "A series of detoxifying movements and twists that will compress and release organs, delivering oxygen-rich blood while pushing out toxins.",
+  "image": "seated_twist",
+  "time_multiplier": [
+    2,
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    2
+  ],
+  "name": "Detox"
+}

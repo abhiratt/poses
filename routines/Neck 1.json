@@ -1,0 +1,31 @@
+{
+  "exercise_order": [
+    143,
+    10,
+    125,
+    145,
+    147,
+    154,
+    155,
+    153,
+    140,
+    139,
+    156
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the neck.",
+  "image": "neck_roll",
+  "time_multiplier": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Neck 1"
+}

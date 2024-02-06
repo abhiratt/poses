@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    8,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12
+  ],
+  "desc": "Improve your posture with seated stretches designed to correct habitual posture problems by increasing flexibility in the shoulders, back, and neck.",
+  "image": "cactus_arms",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Posture Reset"
+}

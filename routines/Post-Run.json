@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    21,
+    26,
+    22,
+    23,
+    2,
+    24,
+    25
+  ],
+  "desc": "Improve your stride, speed, and recovery with post-run stretches designed to reduce soreness, prevent injury, and increase your range of motion.",
+  "image": "leaning_calf",
+  "time_multiplier": [
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "name": "Post-Run"
+}

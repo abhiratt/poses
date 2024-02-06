@@ -1,0 +1,33 @@
+{
+  "exercise_order": [
+    21,
+    2,
+    62,
+    63,
+    49,
+    3,
+    4,
+    57,
+    16,
+    64,
+    132,
+    19
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the quadriceps.",
+  "image": "lunge",
+  "time_multiplier": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1
+  ],
+  "name": "Quads 2"
+}

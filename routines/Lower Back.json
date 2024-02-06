@@ -1,0 +1,31 @@
+{
+  "exercise_order": [
+    56,
+    2,
+    14,
+    27,
+    57,
+    17,
+    66,
+    19,
+    25,
+    50,
+    20
+  ],
+  "desc": "Reduce and prevent lower back pain with gentle stretches designed to increase flexibility in the lower back, pelvis, and hip flexors.",
+  "image": "lying_figure_four",
+  "time_multiplier": [
+    2,
+    4,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4,
+    2,
+    2
+  ],
+  "name": "Lower Back"
+}

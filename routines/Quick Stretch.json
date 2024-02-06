@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    36,
+    40,
+    26,
+    23,
+    2,
+    3,
+    4,
+    1
+  ],
+  "desc": "A quick, convenient routine for whenever you need it. Great for after a workout or a long day at work (or on the couch).",
+  "image": "downward_dog",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1
+  ],
+  "name": "Quick Stretch"
+}

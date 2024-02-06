@@ -1,0 +1,37 @@
+{
+  "exercise_order": [
+    143,
+    10,
+    125,
+    145,
+    147,
+    154,
+    155,
+    153,
+    140,
+    139,
+    156,
+    157,
+    128,
+    150
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the neck.",
+  "image": "scapula_stretch",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1
+  ],
+  "name": "Neck 2"
+}

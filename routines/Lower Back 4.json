@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    3,
+    4,
+    91,
+    25,
+    15,
+    130,
+    96,
+    131
+  ],
+  "desc": "A beginner routine designed to increase flexibility and reduce pain in your lower back.",
+  "image": "downward_dog",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2
+  ],
+  "name": "Lower Back 4"
+}

@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    100,
+    108,
+    101,
+    109,
+    102,
+    110,
+    121
+  ],
+  "desc": "An isometric exercise routine thats build muscle, strength, balance, and range of motion in targeted areas through static muscle contraction.",
+  "image": "squat_hold",
+  "time_multiplier": [
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2
+  ],
+  "name": "Squats"
+}

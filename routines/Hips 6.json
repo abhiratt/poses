@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    49,
+    69,
+    13,
+    115,
+    134,
+    78,
+    66,
+    19
+  ],
+  "desc": "A beginner routine designed to increase flexibility and strength in your hips.",
+  "image": "pigeon",
+  "time_multiplier": [
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1
+  ],
+  "name": "Hips 6"
+}

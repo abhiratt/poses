@@ -1,0 +1,17 @@
+{
+  "exercise_order": [
+    100,
+    108,
+    109,
+    121
+  ],
+  "desc": "A series of squats and lunge holds designed to strengthen the muscles in your legs, core, and back that are responsible for maintaining good posture.",
+  "image": "split_lunge_hold",
+  "time_multiplier": [
+    1,
+    2,
+    2,
+    1
+  ],
+  "name": "Posture Power"
+}

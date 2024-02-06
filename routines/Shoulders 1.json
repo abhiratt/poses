@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    36,
+    38,
+    128,
+    40,
+    157,
+    53,
+    126,
+    145,
+    52,
+    127
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the shoulders.",
+  "image": "reverse_shoulder",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Shoulders 1"
+}

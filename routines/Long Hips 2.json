@@ -1,0 +1,17 @@
+{
+  "exercise_order": [
+    68,
+    2,
+    25,
+    50
+  ],
+  "desc": "Long-hold poses designed to improve hip flexibility by targeting select muscle groups in the hips.",
+  "image": "squat_stretch",
+  "time_multiplier": [
+    4,
+    4,
+    8,
+    6
+  ],
+  "name": "Long Hips 2"
+}

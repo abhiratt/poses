@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    56,
+    53,
+    3,
+    74,
+    28,
+    71,
+    72,
+    73,
+    15,
+    31
+  ],
+  "desc": "Twisting actions targeting the upper, middle, and lower spine combined with wrists and ankle stretches to strengthen important muscles around your joints.",
+  "image": "twisted_sphinx",
+  "time_multiplier": [
+    2,
+    2,
+    2,
+    4,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "name": "Twists & Wrists"
+}

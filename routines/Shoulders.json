@@ -1,0 +1,27 @@
+{
+  "exercise_order": [
+    0,
+    36,
+    40,
+    38,
+    52,
+    53,
+    54,
+    55,
+    14
+  ],
+  "desc": "Achieve a full range of motion in your shoulders with long-hold stretches designed to restore shoulder mobility, relieve neck and back tension, and improve posture.",
+  "image": "forward_fold",
+  "time_multiplier": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4,
+    4,
+    2
+  ],
+  "name": "Shoulders"
+}

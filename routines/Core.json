@@ -1,0 +1,33 @@
+{
+  "exercise_order": [
+    81,
+    85,
+    117,
+    87,
+    98,
+    99,
+    96,
+    104,
+    79,
+    78,
+    115,
+    105
+  ],
+  "desc": "An isometric exercise routine thats build muscle, strength, balance, and range of motion in targeted areas through static muscle contraction.",
+  "image": "bicycle_crunch_hold",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Core"
+}

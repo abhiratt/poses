@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    26,
+    149,
+    136,
+    64,
+    16,
+    87,
+    135
+  ],
+  "desc": "A beginner routine designed to increase flexibility and reduce pain in your lower back.",
+  "image": "hurdler",
+  "time_multiplier": [
+    1,
+    2,
+    2,
+    1.5,
+    1.5,
+    1,
+    2
+  ],
+  "name": "Lower Back 5"
+}

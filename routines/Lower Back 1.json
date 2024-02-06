@@ -1,0 +1,25 @@
+{
+  "exercise_order": [
+    27,
+    4,
+    2,
+    63,
+    18,
+    19,
+    15,
+    25
+  ],
+  "desc": "A series of stretches designed to increase flexibility in the lower back.",
+  "image": "toe_touch",
+  "time_multiplier": [
+    1,
+    1,
+    1.5,
+    1.5,
+    1,
+    1,
+    1.5,
+    1.5
+  ],
+  "name": "Lower Back 1"
+}

@@ -1,0 +1,39 @@
+{
+  "exercise_order": [
+    0,
+    1,
+    149,
+    3,
+    14,
+    4,
+    27,
+    28,
+    18,
+    131,
+    130,
+    25,
+    15,
+    19,
+    50
+  ],
+  "desc": "An intermediate routine designed to increase flexibility in your lower back, hips, and core.",
+  "image": "cat_cow",
+  "time_multiplier": [
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1
+  ],
+  "name": "Core 2"
+}

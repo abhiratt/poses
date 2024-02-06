@@ -1,0 +1,21 @@
+{
+  "exercise_order": [
+    81,
+    82,
+    83,
+    85,
+    86,
+    87
+  ],
+  "desc": "A series of plank poses activating all of the muscles in your core. A strong core improves posture and balance, increases flexibility, and reduces lower back pain.",
+  "image": "elbow_side_plank",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Planks II"
+}

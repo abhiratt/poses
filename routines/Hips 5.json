@@ -1,0 +1,23 @@
+{
+  "exercise_order": [
+    2,
+    63,
+    91,
+    18,
+    25,
+    16,
+    15
+  ],
+  "desc": "A beginner routine designed to increase flexibility and strength in your hips.",
+  "image": "reverse_lunge",
+  "time_multiplier": [
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2
+  ],
+  "name": "Hips 5"
+}

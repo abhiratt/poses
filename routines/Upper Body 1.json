@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    36,
+    40,
+    38,
+    128,
+    145,
+    157,
+    10,
+    125,
+    153,
+    140
+  ],
+  "desc": "A beginner routine designed to increase flexibility in your neck, shoulders, chest, and upper back.",
+  "image": "chin_retractions",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Upper Body 1"
+}

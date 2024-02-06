@@ -1,0 +1,39 @@
+{
+  "exercise_order": [
+    0,
+    56,
+    3,
+    14,
+    19,
+    25,
+    15,
+    16,
+    17,
+    18,
+    51,
+    50,
+    31,
+    42,
+    20
+  ],
+  "desc": "Activate your parasympathetic nervous system and alleviate stress with relaxing, long-hold stretches and focused breathing.",
+  "image": "rag_doll",
+  "time_multiplier": [
+    1,
+    2,
+    1,
+    2,
+    4,
+    4,
+    4,
+    4,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4,
+    4
+  ],
+  "name": "Deep Relax"
+}

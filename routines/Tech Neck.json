@@ -1,0 +1,29 @@
+{
+  "exercise_order": [
+    125,
+    126,
+    0,
+    125,
+    52,
+    127,
+    38,
+    128,
+    11,
+    125
+  ],
+  "desc": "Fix rounded shoulders, forward head posture, and a curved upper spine with stretches that lengthen muscles in your chest, shoulders, and neck.",
+  "image": "tech_neck_seated",
+  "time_multiplier": [
+    0.5,
+    2,
+    1,
+    0.5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0.5
+  ],
+  "name": "Tech Neck"
+}

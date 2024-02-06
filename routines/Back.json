@@ -1,0 +1,17 @@
+{
+  "exercise_order": [
+    91,
+    105,
+    106,
+    107
+  ],
+  "desc": "An isometric exercise routine thats build muscle, strength, balance, and range of motion in targeted areas through static muscle contraction.",
+  "image": "aquaman",
+  "time_multiplier": [
+    2,
+    1,
+    2,
+    1
+  ],
+  "name": "Back"
+}

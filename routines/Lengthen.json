@@ -1,0 +1,31 @@
+{
+  "exercise_order": [
+    0,
+    1,
+    36,
+    26,
+    2,
+    3,
+    4,
+    14,
+    19,
+    17,
+    31
+  ],
+  "desc": "Get taller and stand straighter with a daily stretch routine designed to reverse spinal compression and improve your posture.",
+  "image": "wide_leg_bend",
+  "time_multiplier": [
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "name": "Lengthen"
+}
